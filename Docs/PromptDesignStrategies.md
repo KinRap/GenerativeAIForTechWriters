@@ -4,4 +4,4 @@ layout:  default
 nav_order: 6
 ---
 
-#
+# Prompt Design Strategies

@@ -5,4 +5,4 @@ parent: Tools
 nav_order: 5
 ---
 
-## 
+## Bing AI

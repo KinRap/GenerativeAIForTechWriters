@@ -5,4 +5,4 @@ parent: Risks & Limitations
 nav_order: 5
 ---
 
-## 
+## Lack of Creativity
