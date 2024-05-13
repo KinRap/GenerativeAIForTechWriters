@@ -1,7 +1,7 @@
 ---
 title: What is technical writing?
 layout: default
-parent: Introduction
+parent: Home
 nav_order: 2
 ---
 

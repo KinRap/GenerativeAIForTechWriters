@@ -1,7 +1,7 @@
 ---
 title: How do they combine?
 layout: default
-parent: Introduction
+parent: Home
 nav_order: 4
 ---
 
