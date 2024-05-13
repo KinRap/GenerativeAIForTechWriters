@@ -1,7 +1,7 @@
 ---
 title: What is AI?
 layout: default
-parent: Home
+parent: Introduction
 nav_order: 3
 ---
 
