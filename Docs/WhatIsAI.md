@@ -6,6 +6,7 @@ nav_order: 3
 ---
 
 # What is AI?
+***
 
 **Artificial Intelligence (AI)** refers to technology that simulates human intelligence in machines, enabling them to think and act in ways similar to humans. This includes developing algorithms and computer programs that can perform tasks generally associated with human intelligence, like visual perception, speech recognition, decision-making, and language translation.
 
@@ -33,12 +34,12 @@ Artificial intelligence (AI) empowers machines to learn from experience, adapt t
 ##  Types of AI
 ***
 
-There are three main types of generative technologies: 
+#### There are three main types of generative technologies: 
 1.	**Digital twins** - are digital representations of real-world objects or systems, created using historical data, real-world data, synthetic data, or information from a system's feedback loop. They are constructed using software, data, and a combination of generative and non-generative models that replicate and synchronize with a physical system, whether that's a process, product, or entire system. Digital twins are valuable for testing, optimization, monitoring, or prediction. For instance, a digital twin of a company's supply chain can assist in predicting when shortages might occur.
 2.	**A large language model (LLM)** - is a robust machine learning model designed to process and understand complex relationships in a natural language, generate text, and engage in conversations with users. These models are based on techniques such as deep learning and neural networks. As natural language-processing AI models, LLMs are trained on vast quantities of text data, resulting in models with billions of parameters. OpenAI's ChatGPT is a widely known example of a large language model.
 3.	**Synthetic data generation** - is the process of creating data on demand, through self-service, or via automated algorithms and rules instead of gathering it from the real world. Synthetic data is typically generated to fill gaps where real data falls short. It replicates the same statistical properties, probabilities, patterns, and characteristics of real-world data on which it is based. Many organizations use synthetic data to maintain privacy or address other challenges associated with collecting and using real-world data, such as high costs, time-consuming data preparation, or inherent bias.
 
-Artificial intelligence (AI) can be classified into several types based on:
+#### Artificial intelligence (AI) can be classified into several types based on:
 1. **Based on capabilities**:
 
     - Narrow AI (Weak AI, ANI) - This form of AI is built to accomplish a narrow task, like recognizing faces, conducting internet searches, or driving a vehicle. Examples: Siri, Alexa, autonomous vehicles, AlphaGo, and humanoid robots - Sophia.
