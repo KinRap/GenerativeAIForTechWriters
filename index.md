@@ -6,7 +6,7 @@ nav_order: 1
 
 # **Generative AI for Technical Writing**
 
-<img src="Images/Header.png" alt="Generative AI for Technical Writing" width="75%">
+<img src="Images/Header.png" alt="Generative AI for Technical Writing" width="250px">
 ![Generative AI for Technical Writing](Images/Header.png)
 
 
