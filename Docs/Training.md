@@ -40,15 +40,15 @@ Algorithms must contend with outliers, surprises, inconsistencies, and initially
 ### Steps ### 
 
 Training an AI model involves a series of steps, which may vary depending on the task and AI model type. General outline:
-1.	Define the Problem: Clearly specify the task or problem the AI model should address, This could be anything from image classification to natural language processing.
-2.	Data Collection: Gather a diverse dataset relevant to the problem. The quality and quantity of data significantly impact the model's performance.
-3.	Data Preprocessing: Clean and preprocess the data to remove noise, handle missing values, and normalize it for effective training.
-4.	Choose a Model Architecture: Select a suitable AI model architecture, like a convolutional neural network (CNN) for images or a recurrent neural network (RNN) for sequential data.
-5.	Model Training: Use the pre-processed data to train the chosen AI model. During training, the model learns to make predictions by adjusting its parameters based on input data.
-6.	Evaluation: Assess the model's performance using a separate dataset it hasn't seen before. Common evaluation metrics include accuracy, precision, recall, and F1-score.
-7.	Finetuning and Optimization: Refine the model by adjusting hyperparameters and experimenting with different architectures and optimization techniques to enhance performance.
-8.	Deployment: Deploy the trained model into production for real-world applications, where it can make predictions or perform tasks.
-9.	Monitoring and Maintenance: Continuously monitor the model's performance and periodically retrain it with new data to keep it accurate and up-to-date.
+1.	**Define the Problem** - Clearly specify the task or problem the AI model should address, This could be anything from image classification to natural language processing.
+2.	**Data Collection** - Gather a diverse dataset relevant to the problem. The quality and quantity of data significantly impact the model's performance.
+3.	**Data Preprocessing** - Clean and preprocess the data to remove noise, handle missing values, and normalize it for effective training.
+4.	**Choose a Model Architecture** - Select a suitable AI model architecture, like a convolutional neural network (CNN) for images or a recurrent neural network (RNN) for sequential data.
+5.	**Model Training** - Use the pre-processed data to train the chosen AI model. During training, the model learns to make predictions by adjusting its parameters based on input data.
+6.	**Evaluation** - Assess the model's performance using a separate dataset it hasn't seen before. Common evaluation metrics include accuracy, precision, recall, and F1-score.
+7.	**Finetuning and Optimization** - Refine the model by adjusting hyperparameters and experimenting with different architectures and optimization techniques to enhance performance.
+8.	**Deployment** -  Deploy the trained model into production for real-world applications, where it can make predictions or perform tasks.
+9.	**Monitoring and Maintenance** - Continuously monitor the model's performance and periodically retrain it with new data to keep it accurate and up-to-date.
 
 
 ### DataSet Preparation and Data Preprocessing ###
