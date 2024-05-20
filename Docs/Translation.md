@@ -6,7 +6,7 @@ grand_parent: Capabilities
 nav_order: 4
 ---
 
-### Translation ###
+### Translation and Localization ###
 
 In the world, people speak over 7,000 languages. The business world knows no bounds. Communication cannot be a hindrance here. Therefore, technical documents often need to be translated into multiple languages. Although fluency in a foreign language may seem to be the only way to achieve effective translations, the world provides us with additional possibilities such as **Machine Translation (MT)**. However, it is essential not to forget that GenAI can also play a significant role in this field.
 
