@@ -98,9 +98,11 @@ Following validation using carefully selected and tailored datasets, the model c
 
 To see more about LLM’s training go to the website [LLM_training](https://milenajoanna.github.io/FinalProjectVistulaLLM-sForBeginners/docs/LLM_training.html).
 
-### Conclusion ###
+---
 
 A well-trained GenAI can be an excellent tool for technical writers. It can serve as a valuable source of information and suggestions for further work. Therefore, appropriate training is crucial here.
+
+---
 
 
 
