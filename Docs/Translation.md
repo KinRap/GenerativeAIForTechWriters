@@ -16,4 +16,4 @@ In the realm of technical documentation, maintaining consistency across differen
 
 GenAI efficiently handles large volumes of text. This renders them suitable for translating extensive technical documents or content across various platforms and mediums.
 While generative AI accelerates translation tasks, maintaining the quality and accuracy of translated content remains paramount. Technical writers leverage AI tools to refine translations, rectifying errors or inconsistencies to meet desired standards.
-Adopting AI tools gradually in alignment with existing practices can streamline the transition process, minimizing disruptions and optimizing workflow efficiency.
+Adopting GenAI tools gradually in alignment with existing practices can streamline the transition process, minimizing disruptions and optimizing workflow efficiency.
