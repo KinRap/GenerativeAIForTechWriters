@@ -1,5 +1,5 @@
 ---
-title:  Translation
+title:  Translation and Localization
 layout: default
 parent: Content
 grand_parent: Capabilities
