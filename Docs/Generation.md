@@ -31,6 +31,10 @@ For user manuals and guides, GenAI can create detailed step-by-step instructions
 #### **Release Notes and Changelogs** ####
 When it comes to release notes and changelogs, AI can track changes in the codebase and compile release notes that highlight new features, bug fixes, and improvements. For instance, if a new feature is added or a bug is fixed, AI can automatically include this information in the release notes, ensuring timely and accurate updates.
 
+### Images and Videos ###
+
+Thank to GenAI such algorithms can be generative in the sense that they have the capability to generate new and original content of images, videos, or text that is hardly distinguishable from humans. This can be seen as very helpful.
+
 --- 
 
 Using generative AI, you can produce documentation much faster, as available tools can create sample text with just a few simple prompts. Once a technical writer learns to effectively use generative AI, building an initial document becomes significantly quicker than manually assembling the text. Additionally, using generative AI to proofread and optimize documents saves a lot of time, as these processes can be automated.
