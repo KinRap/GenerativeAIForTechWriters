@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-# Risks & Limitations #
+# **Risks & Limitations** #
 
 With new developments in the field of AI technology, it is essential to embrace new ways of applying this technology across different sectors. In today’s technical writing and documentation context, generative AI has emerged as a powerful tool to streamline the content creation process. However, this much-hyped technology is not without controversies and drawbacks. 
 
