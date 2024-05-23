@@ -2,7 +2,7 @@
 title:  Training
 layout: default
 parent: Risks & Limitations
-nav_order: 8
+nav_order: 7
 ---
 
 ## **Training** ##
