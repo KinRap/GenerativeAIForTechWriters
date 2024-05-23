@@ -18,12 +18,12 @@ AI is trained using **Large Language Model (LLM)**. Their improper use can lead 
     - portion of the dataset. 
 
     Data Poisoning attacks come in several types:
-    - Targeted Attacks:
-       - Label Poisoning: Inserting mislabelled or harmful data.
-       - Training Data Poisoning: Contaminating a substantial part of the training dataset.
-    - Non-Targeted Attacks:
-       - Model Inversion Attacks: This model exploits the model's outputs to reveal sensitive information about the training data.
-       - Stealth Attacks: Introducing subtle changes in training data to insert hard-to-detect vulnerabilities.
+    - **Targeted Attacks**:
+       - **Label Poisoning**: Inserting mislabelled or harmful data.
+       - **Training Data Poisoning**: Contaminating a substantial part of the training dataset.
+    - **Non-Targeted Attacks**:
+       - **Model Inversion Attacks**: This model exploits the model's outputs to reveal sensitive information about the training data.
+       - **Stealth Attacks**: Introducing subtle changes in training data to insert hard-to-detect vulnerabilities.
 
     Through manipulation of the training dataset, biases, erroneous results, biases, vulnerabilities (e.g., backdoors) can be introduced, always affecting the decision-making or predictive capabilities of the model.
 3. **Breach of PII**: This refers to situations where persons other than authorized users have access or potential access to personally identifiable information. GenAI may inadvertently disclose sensitive PII during training, tuning, or inference processes. This breach could result from inadequate data security measures, unauthorized access, or vulnerabilities in the model architecture, potentially leading to privacy violations.
