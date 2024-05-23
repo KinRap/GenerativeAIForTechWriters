@@ -7,4 +7,4 @@ nav_order: 3
 
 ## **Jasper AI** #
 
-<img src="../Images/jasper.png.png" alt="Jasper AI" width="100%">
+<img src="../Images/jasper.png" alt="Jasper AI" width="100%">
