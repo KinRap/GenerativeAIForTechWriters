@@ -8,6 +8,6 @@ nav_order: 2
 ## **ChatGPT** ##
 ***
 
-![ChatGPT](../images/ChatGTP.png)
+<img src="../Images/ChatGTP.png" alt="ChatGPT" width="100%">
 
 
