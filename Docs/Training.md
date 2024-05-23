@@ -15,7 +15,7 @@ Consider a child learning to identify various animals. By presenting the child w
 GenAI enables users to produce a variety of content types, including text, images, videos, sounds, and code, by entering different prompts. To generate such content, GenAI systems require substantial knowledge. Like a child needing numerous examples to recognize different animals, GenAi learns and is trained on documents and artifacts that already exist. For example, the OpenAI GPT-3 model has been trained with about 45 TB of text data from multiple sources - that’s about one million feet of bookshelf space
 
 
-Datasets used to train the model the OpenAI GPT-3 model[^1]:
+[Datasets used to train the model the OpenAI GPT-3 model](https://www.springboard.com/blog/data-science/machine-learning-gpt-3-open-ai/):
 
 | Dataset      | Quantity (tokens) | Weight in training mix | Epochs elapsed when training for 300B tokens|
 | -------------| ----------------- | ---------------------- | ------------------------------------------- |
@@ -70,7 +70,7 @@ The selection of appropriate data collection methods holds significant importanc
 
 Customizing the data collection approach to cater to the project's specific ensures the relevance of the collected data and the provision of targeted insights for the AI model.
 
-**Best practices** [^2]: 
+[**Best practices**](https://research.aimultiple.com/data-collection-best-practices/).: 
 
 ![Best Practices](../Images/BestPractices.png) 
  
@@ -105,9 +105,4 @@ A well-trained GenAI can be an excellent tool for technical writers. It can serv
 
 ---
 
-
-
-[^1] Source: [OpenAI GPT-3: Everything You Need to Know [Updated]](https://www.springboard.com/blog/data-science/machine-learning-gpt-3-open-ai/).
-
-[^2] Source: [7 AI Data Collection Best Practices in 2024](https://research.aimultiple.com/data-collection-best-practices/).
 
