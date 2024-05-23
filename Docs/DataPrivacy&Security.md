@@ -6,6 +6,7 @@ nav_order: 4
 ---
 
 ## **Data Privacy & Security** ##
+***
 
 
 Data security and privacy are two elements that always factor when it comes to any technology; more so, when it comes to GenAI. The data used in GenAI processes should be obtained legally, and legal measures should also be exercised by GenAI on the data and the content it produces to be compliant with the prevailing laws.

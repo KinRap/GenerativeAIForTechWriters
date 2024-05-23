@@ -5,7 +5,7 @@ parent: Introduction
 nav_order: 3
 ---
 
-# **What is AI?**
+# **What is AI?** #
 ***
 
 **Artificial Intelligence (AI)** refers to technology that simulates human intelligence in machines, enabling them to think and act in ways similar to humans. This includes developing algorithms and computer programs that can perform tasks generally associated with human intelligence, like visual perception, speech recognition, decision-making, and language translation.

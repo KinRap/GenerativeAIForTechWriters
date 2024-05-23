@@ -6,7 +6,8 @@ grand_parent: Capabilities
 nav_order: 2
 ---
 
-### Generation ###
+### **Generation** ###
+***
 
 Let's begin with the text generation capabilities of generative AI. At the core of generative AI's text generation are advanced AI-powered **Large Language Models (LLMs)**. LLMs are trained on extensive datasets and can generate human-like text in various contexts. These models learn patterns and structures within the data to produce coherent and contextually relevant responses. They can generate text, engage in conversation, provide explanations, summaries, and more. 
 

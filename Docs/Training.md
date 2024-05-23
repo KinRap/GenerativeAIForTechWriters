@@ -5,7 +5,8 @@ parent: Capabilities
 nav_order: 2
 ---
 
-## **Training**
+## **Training** ##
+***
 
 AI training is centered on teaching it to understand data correctly and learn from it to perform a specific task. Fundamentally, AI training mirrors the way humans gain knowledge through experience. 
 

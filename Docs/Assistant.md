@@ -6,6 +6,7 @@ nav_order: 5
 ---
 
 ## Assistant ##
+***
 
 Gen AI tools are becoming indispensable for technical writers aiming to streamline their documentation processes. These assistants offer numerous benefits, including natural language understanding and code generation capabilities. However, it's essential to recognize their limitations, like potential knowledge gaps and the requirement for human oversight. We must always remember that it is the author, not the artificial intelligence, who is responsible for the generated output. This applies to both its quality and originality. Human elements remain irreplicable, but Gen AI can assist in the technical writing process.
 

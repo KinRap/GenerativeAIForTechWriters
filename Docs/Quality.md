@@ -6,6 +6,7 @@ nav_order: 2
 ---
 
 ## **Quality** ##
+***
 
 The quality of content in technical documentation, particularly instructions and procedures, is crucial. A single word left out or put in the wrong context usually results in misunderstanding, machine breakdowns, accidents, injuries, and other issues. This underscores the challenge of using GenAI in technical writing. It is therefore important for any publication to have mechanisms in place to maintain high standards of the material it disseminates.
 

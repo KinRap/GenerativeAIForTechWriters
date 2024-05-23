@@ -5,8 +5,8 @@ parent: Introduction
 nav_order: 2
 ---
 
-# **What is Technical Writing?**
-***
+# **What is Technical Writing?** #
+*** 
 
 **Technical writing** is a specialized form of writing that focuses on conveying complex information in a clear, concise, and understandable manner. It can be defined as *simplifying the complex*. Though this definition seems concise and simple, it encompasses a broad range of skills and attributes relevant to nearly every area of human activity. 
 

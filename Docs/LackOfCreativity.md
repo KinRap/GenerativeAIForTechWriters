@@ -6,6 +6,8 @@ nav_order: 5
 ---
 
 ## **Lack of Creativity** ##
+***
+
 While GenAI has demonstrated remarkable outcomes, it lacks creativity in various tasks. It relies on technical writers to provide prompts, and if the prompts are incorrect, the resulting content will not meet the necessary quality standards. Additionally, GenAI often sounds robotic compared to human writers because it cannot pick up on certain language nuances.
 
 As a result, it synthesizes content based on its input data but struggles to produce novel or innovative ideas. These tools rely on existing data and patterns, limiting their ability to create new concepts and solutions. GenAI is most effective for product descriptions, technical specifications, and other content generated from user input data. However, it is far from optimal for creative areas like marketing and advertising.

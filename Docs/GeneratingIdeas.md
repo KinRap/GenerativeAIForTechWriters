@@ -5,7 +5,8 @@ parent: Capabilities
 nav_order: 3
 ---
 
-## Generating ideas ##
+## **Generating ideas** ##
+***
 
 Sometimes, when starting a project, we have no idea where to begin, what to do, or how to approach it. To kickstart the process, we need to know the purpose of the document, who its audience is, and whether any previous work has been done on the subject. Every writer, including technical writers, can experience creative blocks and the dreaded blank page syndrome. Some see Generative AI as a threat to traditional writing methods, while others view it as a potential solution to the fear of the blank page. In such instances, GenAI can serve not only as a tool for finding information or checking spelling and grammar but also as a brilliant resource for unlocking creativity, generating ideas, and brainstorming.
 

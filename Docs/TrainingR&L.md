@@ -5,7 +5,8 @@ parent: Risks & Limitations
 nav_order: 8
 ---
 
-## **Training**
+## **Training** ##
+***
 
 We know that for GenAI to deliver high-quality information, it must be properly trained. This requires not only preparing the training data appropriately but also updating and working with it to ensure that the generated content is not discriminatory or offensive. Similarly, while AI training presents enormous opportunities to improve the quality of the information received, it also carries certain limitations and risks
 

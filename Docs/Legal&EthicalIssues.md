@@ -7,6 +7,8 @@ nav_order: 6
 
 ## **Legal & Ethical Issues** ##
 
+***
+
 The increasing use of GenAI raises a number of ethical and legal concerns and challenges, including those related to intellectual property, data privacy, and liability for errors or misuse of the technology. According to the [Artificial Intelligence Index Report](https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf), in 2023, "25 AI-related regulations were enacted in the US, growing the total number by 56.3%. Compare that to 2016, when just one was introduced. The number of AI-related regulations passed by the EU jumped from 22 in 2022 to 32 in 2023. Despite this growth, approved EU regulations were at their peak in 2021, when 46 were passed#. These numbers show how many ethical and legal issues relate to the use of artificial intelligence. It is certain that the more such documents are created, the more doubts will be dispelled.
 
 ### Who is the author? ###

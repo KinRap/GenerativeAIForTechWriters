@@ -5,7 +5,7 @@ parent: Introduction
 nav_order: 4
 ---
 
-# **How do they combine?**
+# **How do they combine?** #
 ***
 
 The development of Generative AI in recent years has significantly impacted not only the market but also the way people work. 

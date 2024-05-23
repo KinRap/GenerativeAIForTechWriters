@@ -6,6 +6,7 @@ nav_order: 3
 ---
 
 ## **Falsification** ##
+***
 
 It is evident that AI offers numerous advantages, but it is still important to acknowledge its disadvantages. It should be noted that AI can sometimes produce incorrect or contradicting information, a phenomenon referred to as data hallucination. 
 

@@ -6,7 +6,8 @@ grand_parent: Capabilities
 nav_order: 6
 ---
 
-### Personalization ###
+### **Personalization** ###
+***
 
 In a world where AI acts as a personal assistant, personalization is essential. Therefore, it is crucial to ensure that the language and the level of knowledge used are appropriate for the client or end user. 
 
