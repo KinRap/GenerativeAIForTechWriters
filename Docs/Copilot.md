@@ -1,8 +1,8 @@
 ---
-title:   Bing AI
+title:   Copilot
 layout: default
 parent: Tools
 nav_order: 5
 ---
 
-## Bing AI
+## **Copilot** ##
