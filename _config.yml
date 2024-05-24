@@ -1,8 +1,18 @@
 title: Generative AI for Technical Writing
 description: Generative AI for Technical Writing
 theme: just-the-docs
+color_scheme: css
 
 url: https://github.com/KinRap/GenerativeAIForTechWriters
 
 aux_links:
   Template Repository: https://github.com/KinRap/GenerativeAIForTechWriters
+
+
+
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2024 KInga Rapacka. Distributed under the <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license. Copyright (c) 2016 Patrick Marsceill</a>"
