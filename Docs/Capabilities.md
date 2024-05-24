@@ -4,7 +4,7 @@ layout: default
 nav_order: 3
 has_children: true
 ---
-
+<img src="../Images/3.png" alt="HHeader Capabilities" width="100%">
 # **Capabilities** #
 ***
 
