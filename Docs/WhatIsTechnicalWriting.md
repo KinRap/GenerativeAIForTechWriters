@@ -4,6 +4,7 @@ layout: default
 parent: Introduction
 nav_order: 2
 ---
+<img src="../Images/2.png" alt="Header Introduction" width="100%">
 
 # **What is Technical Writing?** #
 *** 

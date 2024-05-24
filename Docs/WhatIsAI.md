@@ -4,7 +4,7 @@ layout: default
 parent: Introduction
 nav_order: 3
 ---
-
+<img src="../Images/2.png" alt="Header Introduction" width="100%">
 # **What is AI?** #
 ***
 
