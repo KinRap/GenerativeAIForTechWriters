@@ -14,6 +14,7 @@ The development of Generative AI in recent years has significantly impacted not 
 According to a [Salesforce survey](https://www.salesforce.com/news/stories/generative-ai-ethics-survey/), as many as 61 percent of white-collar workers have already used or plan to use artificial intelligence for their tasks. Many see the potential that this tool holds. At the same time, there are increasing discussions about the risks associated with using GenAI. 
 
 Technology is a tool intended to serve people and improve their operations, so GenAI could also substantially affect the work of technical writers. Technical writers generally work close to technology, and adding another tool to their toolkit can help them achieve a level of productivity that might not be attainable otherwise. 
+
 <img src="../Images/Wisely.png" alt="Use Genrative AI wisely" width="60%">
 
 
