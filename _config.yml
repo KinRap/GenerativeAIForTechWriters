@@ -11,6 +11,10 @@ aux_links:
 # Logo
 logo: "/Images/Logo.png"
 
+#Favicon
+favicon_ico: "/Images/Favicon.png"
+
+
 
 # Back to top link
 back_to_top: true
