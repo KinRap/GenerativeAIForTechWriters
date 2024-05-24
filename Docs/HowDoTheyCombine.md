@@ -4,6 +4,7 @@ layout: default
 parent: Introduction
 nav_order: 4
 ---
+<img src="../Images/2.png" alt="Header Introduction" width="100%">
 
 # **How do they combine?** #
 ***
