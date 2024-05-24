@@ -79,8 +79,8 @@ In this article, we aim to focus on what **Generative AI** is and whether, or ra
 
 ## Generative AI
 ***
-
-![Geberative AI](../Images/GenerativeAI.png)
+<img src="../Images/GenerativeAI.png" alt="Generative AI" width="75%">
+![Generative AI](../Images/GenerativeAI.png)
 
 **Generative AI (Gen AI)** refers to an AI model that produces content based on a given prompt. It involves algorithms that can be employed to produce new content, including audio, code, images, text, simulations, and videos. While the full extent of Gen AI's potential is still being explored, there is some information already on how Gen AI models are built, what specific challenges they excel at addressing, and how they relate to other AI and machine learning technologies. 
 
