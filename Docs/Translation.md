@@ -5,6 +5,7 @@ parent: Content
 grand_parent: Capabilities
 nav_order: 4
 ---
+<img src="../Images/10.png" alt="Header Content" width="100%">
 
 ### **Translation and Localization** ###
 ***

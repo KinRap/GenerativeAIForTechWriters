@@ -4,5 +4,5 @@ layout:  default
 nav_order: 7
 has_children: true
 ---
-
-# Conclusion
+<img src="../Images/8.png" alt="Header Conclusion" width="100%">
+# **Conclusion** #

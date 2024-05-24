@@ -5,6 +5,7 @@ parent: Content
 grand_parent: Capabilities
 nav_order: 2
 ---
+<img src="../Images/10.png" alt="HHeader Content" width="100%">
 
 ### **Generation** ###
 ***

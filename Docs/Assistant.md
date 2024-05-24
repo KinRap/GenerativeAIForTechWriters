@@ -4,6 +4,7 @@ layout: default
 parent: Capabilities
 nav_order: 5
 ---
+<img src="../Images/3.png" alt="HHeader Capabilities" width="100%">
 
 ## Assistant ##
 ***

@@ -5,7 +5,7 @@ parent: Content
 grand_parent: Capabilities
 nav_order: 6
 ---
-
+<img src="../Images/10.png" alt="Header Content" width="100%">
 ### **Personalization** ###
 ***
 
