@@ -65,7 +65,7 @@ Artificial intelligence (AI) empowers machines to learn from experience, adapt t
 ## The Evolution of AI 
 ***
 
-To understand how AI works, we should take a look at the evolution of artificial intelligence[^1]. 
+To understand how AI works, we should take a look at the [evolution of artificial intelligence](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-ai). 
 
 ![The Evolution of AI](../Images/AIEvolution.png)
 
@@ -89,6 +89,5 @@ Outputs from generative AI models can either closely resemble human-generated co
 Generative AI tools can generate a variety of credible writing within seconds, and adjust in response to criticism to better suit specific needs. This affects a wide range of industries in need of marketing content. Generative AI is used in industries such as banking, Insurance, life sciences, manufacturing, public sector, retail. Simply put, any business that has to produce clear written materials could find value in using generative AI. That's why Generative AI creates new opportunities for technical writers as well.
 
 
-[^1] Souce: [What is AI (artificial intelligence)?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-ai), Exhibit 1. 
 
 
