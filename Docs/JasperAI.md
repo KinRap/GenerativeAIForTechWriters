@@ -13,17 +13,17 @@ Jasper AI has evolved into a universal writing aid that leverages AI for text cr
 
 ### Features: ###
 
--	Content Generation such as blog posts, articles, website copy, and even books with Jasper's assistance.
--	Refine existing content by improving its clarity, conciseness, and overall quality.
+-	-	Content Generation such as blog posts, articles, website copy, and even books with Jasper's assistance.
+-	Refinement of existing content by improving its clarity, conciseness, and overall quality.
 -	Grammar and spelling correction for accurate and error-free writing.
--	Generate compelling marketing copy for landing pages, product descriptions, and sales emails.
--	SEO optimization - optimize your content for search engines to enhance its visibility and organic traffic.
--	Marketing campaign ideas, brainstorming and develop innovative marketing campaign ideas.
--	Generate catchy taglines and slogans for your brand or products.
--	Storytelling assistance develop engaging storylines and plot points for your creative writing projects.
--	Generate creative writing prompts and ideas to overcome writer's block.
+-	Generation of compelling marketing copy for landing pages, product descriptions, and sales emails.
+-	SEO optimization - optimizing your content for search engines to enhance its visibility and organic traffic.
+-	Brainstorming and developing innovative marketing campaign ideas.
+-	Generating catchy taglines and slogans for your brand or products.
+-	Storytelling assistance to develop engaging storylines and plot points for your creative writing projects.
+-	Generation of creative writing prompts and ideas to overcome writer's block.
 -	Voice commands for hands-free operation.
--	Multilingual support for interacting in multiple languages.
+-	Multilingual support.
 -	Customizable Templates.
 -	Integration with Other Tools.
 -	Built-in Chrome Extension.
@@ -41,4 +41,4 @@ Jasper AI offers a variety of plans to suit different user requirements:
 2.	**Pro Plan**:
 -	Available at $59/month/seat (-20% annually). Includes all features in Creator, plus collaboration tools and advanced insights.
 3.	**Business Plan**: 
-- Provides personalized AI features for enhanced control, security, and team training, unlimited feature usage, team collaboration, and advanced analytics,  Custom Style Guides, enterprise-grade security, and dedicated support.
+- Provides personalized AI features for enhanced control, security, and team training, unlimited feature usage, team collaboration, and advanced analytics, Custom Style Guides, enterprise-grade security, and dedicated support.

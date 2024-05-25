@@ -21,27 +21,24 @@ Regarding personal use, work assignments, and other requirements, the convention
 Regarding personal use, work assignments, and other requirements, the conventions that ChatGPT-4o offers are valuable attributes that enhance its application.
 
 ### Features: 
-- Multimodal capabilities for generating and interpreting various types of content.
--	Advanced content generation, including text, images, and possibly other modalities.
--	Document editor functionality for editing and refining generated content.
--	Rewriting feature for transforming text into different styles or formats.
--	Chat option for interactive conversations with ChatGPT.
--	AI Art Generator powered by DALL-E for creating artwork based on user input.
--	Visual context analysis to understand and interpret visual content.
--	Text-to-Speech (TTS) functionality for converting text into spoken audio.
--	Versatility in handling diverse tasks and inputs.
--	Multilingual support for interacting in multiple languages.
--	Exporting ChatGPT history, including text conversations and possibly other data.
--	Customizability options for tailoring ChatGPT to specific user preferences and needs.
--	Task automation capabilities to streamline repetitive tasks.
--	Robust security measures to protect user data and privacy.
--	Interactive feedback during interactions with ChatGPT for user guidance and improvement.
--	Coding assistance for developers and programmers.
--	API access for integrating ChatGPT into third-party applications and services.
--	Emotional intelligence for understanding and responding appropriately to user emotions expressed in text.
--	Detailed report generation for providing insights into ChatGPT usage and performance.
--	Custom workflow creation for designing personalized workflows and processes.
--	Scenario planning features for simulating and exploring various scenarios.
+-	Grammar and spelling correction for accurate and error-free writing.
+-	Advanced writing suggestions to enhance clarity, coherence, and style.
+-	Vocabulary enhancement for enriching language and expression.
+-	Plagiarism checking to ensure originality and proper citation.
+-	Real-time suggestions and corrections for immediate feedback while writing.
+-	Integration with various platforms, including web browsers, desktop applications, and mobile devices.
+-	Access to additional resources for further learning and improvement.
+-	Tone detector for analysing and adjusting the tone of your writing.
+-	Snippets feature for saving and reusing frequently used text fragments.
+-	Style guide to maintain consistency and adherence to preferred writing styles.
+-	Creation of custom style rules to align with specific writing preferences or guidelines.
+-	Organization-wide dialect preference settings for standardizing language use within a company or group.
+-	Brand tone customization to reflect brand identity and voice in written communication.
+-	Citation generator for accurately citing sources and references.
+-	Essay checker for comprehensive writing evaluation and improvement suggestions.
+-	Analytics for tracking writing progress and identifying areas for improvement.
+-	User-friendly interface for intuitive navigation and ease of use.
+
 
 
 ### Plans 
