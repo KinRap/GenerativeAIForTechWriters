@@ -12,7 +12,7 @@ nav_order: 4
 
 Google Gemini is a family of AI models. they can understand and generate text like a regular **Large Language Model (LLM)**, but they can also natively understand, operate on, and combine other kinds of information like images, audio, videos, and code.
 
-### Features:###
+### Features: ###
 -	Multimodal reasoning analyses and comprehends technical documents that combine text, code, and diagrams.
 -	Draft generation creates initial drafts of explanations, procedures, or comparisons based on your prompts.
 -	Text editing and rewriting improves clarity, flow, and sentence structure in existing technical documents.
