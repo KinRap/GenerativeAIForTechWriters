@@ -13,7 +13,10 @@ nav_order: 2
 
 ChatGPT is constantly evolving and can be used to create conversational tones, answer frequently asked questions, and even draft technical articles. GPT, also known as Generative Pre-trained Transformer, is a language model that employs deep learning techniques to produce natural text. In addition to text, it can generate code, stories, poems, and much more. These distinguishing features have made GPT an important subject in **Natural Language Processing (NLP)**.
 
-In May 2024, OpenAI announced GPT-4, their flagship model that can reason across audio, vision, and text in real time, as described in the article 'Hello GPT-4' “GPT-4o (“o” for “omni”) is a step towards much more natural human-computer interaction—it accepts as input any combination of text, audio, image, and video and generates any combination of text, audio, and image outputs. It can respond to audio inputs in as little as 232 milliseconds, with an average of 320 milliseconds, which is similar to human response time in a conversation. It matches GPT-4 Turbo performance on text in English and code, with significant improvement on text in non-English languages, while also being much faster and 50% cheaper in the API. GPT-4o is especially better at vision and audio understanding compared to existing models”.
+In May 2024, OpenAI announced ChatGPT-4o, their flagship model which seeks to improve communication between people and computers across various modalities by accepting and generating textual, audio, image, and video inputs and outputs. It can reply to audio inputs in as little as 232 milliseconds, with an average reaction time of roughly 320 milliseconds, which is quite close to human reaction time. Compared to GPT-4o Turbo, it has a similar level of proficiency in English and coding and significantly outperforms it for non-English text, while being 50% cheaper and three times faster. It also shows improvements over existing models in terms of vision and audio recognition capabilities.
+
+Regarding personal use, work assignments, and other requirements, the conventions that Chat GPT-4o offers are valuable attributes that enhance its application.
+
 
 Regarding personal use, work assignments, and other requirements, the conventions that ChatGPT-4o offers are valuable attributes that enhance its application.
 
@@ -48,9 +51,9 @@ ChatGPT offers a variety of plans to suit different user requirements:
 ![ChatGPT Plans](../Images/ChatGPTPlan.png)
 
 1.	**Free Plan**:
--	Provides fundamental writing assistance, access to GPT-3.5 and limited access to ChatGPT-4o, and some additional functionalities. Recommended for those needing assistance with basic writing tasks.
+-	Provides fundamental writing assistance, access to ChatGPT-3.5 and limited access to ChatGPT-4o, and some additional functionalities. Recommended for those needing assistance with basic writing tasks.
 2.	**Plus Plan**:
 -	Available at $20 per month. Offers more specific benefits, including early access to new features, broader access to GPT models, advanced data analysis, and DALL-E image generation. Recommended for users seeking an enhanced writing experience.
 3.	**Team Plan**:
--	Priced at $25 per user per month. Applies to individuals with monthly wages of up to $300. Includes all features available in the Plus plan, along with increased usage allowances, collaborative workspace, and administrative functionalities. Designed to enhance professionalism and communication effectiveness for teams and organizations.
+- Priced at $25 per person per month. Applies to individuals with monthly wages of up to $300. Includes all features available in the Plus plan, along with increased usage allowances, collaborative workspace, and administrative functionalities. Designed to enhance professionalism and communication effectiveness for teams and organizations.
 
