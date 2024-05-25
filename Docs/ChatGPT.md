@@ -43,7 +43,7 @@ Regarding personal use, work assignments, and other requirements, the convention
 
 ### Plans 
 
-ChatGPT offers a variety of plans to suit different user requirements:
+ChatGPT offers a variety of [plans](https://writesonic.com/pricing) to suit different user requirements:
 
 ![ChatGPT Plans](../Images/ChatGPTPlan.png)
 
