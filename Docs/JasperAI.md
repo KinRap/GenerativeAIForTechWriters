@@ -9,6 +9,7 @@ nav_order: 3
 
 <img src="../Images/jasper.png" alt="Jasper AI" width="100%">
 
+Jasper.ai has evolved into a universal writing aid that leverages AI for text creation. It's not just a copywriting assistant but a unique AI solution designed to enhance writing. Built on Artificial Intelligence, particularly machine learning and Natural Language Processing, Jasper.ai assists writers by overcoming writer’s block, organizing workflow, checking for plagiarism, and optimizing content for the target audience. Compatible with Google Docs, Microsoft Word, and other web applications, it also allows users to track research notes and generate personalized responses for ads and reviews. With over a hundred thousand users, Jasper.ai is rapidly becoming one of the most popular writing tools
 
 ### Features: ###
 
