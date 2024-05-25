@@ -7,6 +7,7 @@ nav_order: 2
 <img src="../Images/8.png" alt="Header Conclusion" width="100%">
 
 ## **To use or not to use** ##
+***
 
 As a technical writer, the thought of incorporating generative AI into my work fills me with excitement and curiosity. The idea of using advanced technology to enhance my writing process and create high-quality content is incredibly appealing. With GenAI, I could easily generate accurate and detailed technical documentation, user manuals, and product descriptions, saving me valuable time and effort.
 

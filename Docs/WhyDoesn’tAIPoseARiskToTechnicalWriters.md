@@ -6,7 +6,8 @@ nav_order: 2
 ---
 <img src="../Images/8.png" alt="Header Conclusion" width="100%">
 
-### **Why doesn’t AI pose a risk to technical writers?** ##
+## **Why doesn’t AI pose a risk to technical writers?** ##
+***
 
 Many people in the field of technical writing may be concerned about the rise of Generative AI and its potential impact on their profession. However, it is important to understand that AI does not pose a significant risk to technical writers, and GenAI will not overtake them on the labor market. In fact, there are several reasons why technical writers should be open-minded and learn how to use GenAI.
 
