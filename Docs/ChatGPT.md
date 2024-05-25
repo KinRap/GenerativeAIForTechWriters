@@ -53,4 +53,7 @@ ChatGPT offers a variety of plans to suit different user requirements:
 -	Available at $20 per month. Offers more specific benefits, including early access to new features, broader access to GPT models, advanced data analysis, and DALL-E image generation. Recommended for users seeking an enhanced writing experience.
 3.	**Team Plan**:
 - Priced at $25 per person per month. Applies to individuals with monthly wages of up to $300. Includes all features available in the Plus plan, along with increased usage allowances, collaborative workspace, and administrative functionalities. Designed to enhance professionalism and communication effectiveness for teams and organizations.
+4.	**Enterprise**:
+-	This plan provides unlimited, high-speed access to GPT-4, GPT-4o, and tools like DALL·E, Browsing, data analysis, admin controls, domain verification, and analytics. In this plan, enterprise data will be excluded from training by default, and custom data retention windows are available
+
 
