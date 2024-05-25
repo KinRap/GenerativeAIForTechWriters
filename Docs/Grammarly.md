@@ -39,9 +39,9 @@ Grammarly offers a variety of plans to suit different user requirements:
 
 ![Grmmarly Pricing](../Images/GrammarlyPlan.png)
 
-1.	Free Plan:
+1.	**Free Plan**:
 - Provides basic writing assistance in areas such as grammar, spelling, and punctuation checks. Ideal for everyday use, especially for individuals who need help with writing simple, everyday documents.
-2.	Premium Plan:
+2.	**Premium Plan**:
 - Available at $12 per month (billed annually) or $30 per month (billed monthly). Offers advanced features like style and tone suggestions, enhanced grammar checks, vocabulary assistance, and writing style recommendations based on the specific genre of the content. This plan is best suited for professionals, students, and anyone looking to elevate their writing quality.
-3.	Business Plan:
+3.	**Business Plan**:
 - Priced at $15 per user per month (billed annually). Designed for teams and organizations, it includes all Premium features along with additional admin tools, centralized billing, usage reports, a dashboard, and priority support. This plan promotes professionalism in communication and is suitable for entire teams.

@@ -47,10 +47,10 @@ ChatGPT offers a variety of plans to suit different user requirements:
 
 ![ChatGPT Plans](../Images/ChatGPTPlan.png)
 
-1.	Free Plan:
+1.	**Free Plan**:
 -	Provides fundamental writing assistance, access to GPT-3.5 and limited access to ChatGPT-4o, and some additional functionalities. Recommended for those needing assistance with basic writing tasks.
-2.	Plus Plan:
+2.	**Plus Plan**:
 -	Available at $20 per month. Offers more specific benefits, including early access to new features, broader access to GPT models, advanced data analysis, and DALL-E image generation. Recommended for users seeking an enhanced writing experience.
-3.	Team Plan:
+3.	**Team Plan**:
 -	Priced at $25 per user per month. Applies to individuals with monthly wages of up to $300. Includes all features available in the Plus plan, along with increased usage allowances, collaborative workspace, and administrative functionalities. Designed to enhance professionalism and communication effectiveness for teams and organizations.
 
