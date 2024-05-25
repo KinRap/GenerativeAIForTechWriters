@@ -35,5 +35,15 @@ For developers, Copilot offers code suggestions, autocompletes code, and provide
 -	Use of Plugins and Custom GPTs.
 
 ### Plan ###
+Microsoft Copilot offers a freemium pricing model, with a free tier and paid subscriptions:
 
 ![Microsoft Copilot Pricing](../Images/MicrosoftCopliotPlan.png)
+
+![icrosoft Copilot Pricing 365 ](../Images/Copliot365Pricing.png)
+
+1.	**Free Trial**:
+-	Primarily for trying out Copilot and basic use cases. It can be used in the free web versions of Word, Excel, PowerPoint, OneNote, and Outlook (requires a Microsoft email address).
+2.	**Microsoft Copilot Pro**:
+-	Available at $20 per user per month. This plan integrates Copilot with the Microsoft 365 suite, offering more advanced features for content creation and editing within the full desktop applications. 
+3.	**Copilot for Microsoft 365**:
+-	Available at $30 per month per user. This plan is dedicated for business clients and education. It integrates Copilot with the Microsoft 365 suite, offering more advanced features for content creation and editing within the full desktop applications. Teams-integrated features require a Teams license.
