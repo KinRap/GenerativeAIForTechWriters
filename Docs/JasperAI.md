@@ -10,6 +10,24 @@ nav_order: 3
 <img src="../Images/jasper.png" alt="Jasper AI" width="100%">
 
 
+### Features: ###
+
+-	Content Generation such as blog posts, articles, website copy, and even books with Jasper's assistance.
+-	Refine existing content by improving its clarity, conciseness, and overall quality.
+-	Grammar and spelling correction for accurate and error-free writing.
+-	Generate compelling marketing copy for landing pages, product descriptions, and sales emails.
+-	SEO optimization - optimize your content for search engines to enhance its visibility and organic traffic.
+-	Marketing campaign ideas, brainstorming and develop innovative marketing campaign ideas.
+-	Generate catchy taglines and slogans for your brand or products.
+-	Storytelling assistance develop engaging storylines and plot points for your creative writing projects.
+-	Generate creative writing prompts and ideas to overcome writer's block.
+-	Voice commands for hands-free operation.
+-	Multilingual support for interacting in multiple languages.
+-	Customizable Templates.
+-	Integration with Other Tools.
+-	Built-in Chrome Extension.
+-	Plagiarism checker to ensure originality and proper citation.
+
 
 ### Plan ###
 
