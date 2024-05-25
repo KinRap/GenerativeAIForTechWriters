@@ -11,7 +11,7 @@ nav_order: 8
 <img src="../Images/Grammrly.png" alt="Grammarly" width="100%">
 
 Grammarly is a leading writing assistant that aids users in improving their grammar, spelling, and writing style. 
-Grammarly was founded in 2009 by Alex Shevchenko, Max Lytvyn, and Dmytro Lider. It was built through a combination of linguistic expertise, advanced artificial intelligence, Natural Language Processing (NLP), and machine learning technologies.
+Grammarly was founded in 2009 by Alex Shevchenko, Max Lytvyn, and Dmytro Lider. It was built through a combination of linguistic expertise, advanced artificial intelligence, **Natural Language Processing (NLP)**, and machine learning technologies.
 
 ### Features:
 -	Grammar and spelling correction for accurate and error-free writing.
@@ -32,7 +32,7 @@ Grammarly was founded in 2009 by Alex Shevchenko, Max Lytvyn, and Dmytro Lider. 
 -	Analytics for tracking writing progress and identifying areas for improvement.
 -	User-friendly interface for intuitive navigation and ease of use.
 
-### Plans:###
+### Plans: ###
 
 Grammarly offers a variety of plans to suit different user requirements: 
 

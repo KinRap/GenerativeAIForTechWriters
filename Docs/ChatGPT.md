@@ -17,7 +17,7 @@ In May 2024, OpenAI announced GPT-4, their flagship model that can reason across
 
 Regarding personal use, work assignments, and other requirements, the conventions that ChatGPT-4o offers are valuable attributes that enhance its application.
 
-### Features: ###
+### Features: 
 - Multimodal capabilities for generating and interpreting various types of content.
 -	Advanced content generation, including text, images, and possibly other modalities.
 -	Document editor functionality for editing and refining generated content.
@@ -41,7 +41,7 @@ Regarding personal use, work assignments, and other requirements, the convention
 -	Scenario planning features for simulating and exploring various scenarios.
 
 
-### Plans ###
+### Plans 
 
 ChatGPT offers a variety of plans to suit different user requirements:
 
