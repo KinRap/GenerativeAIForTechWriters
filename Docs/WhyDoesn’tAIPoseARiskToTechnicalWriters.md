@@ -21,4 +21,7 @@ Despite these reasons, it is still important for technical writers to be open-mi
 
 Furthermore, by embracing GenAI, technical writers can explore new possibilities in content creation. They can experiment with different writing styles or even use AI-generated content as a starting point for their own work. This can help them generate ideas and inspiration, enhancing their creativity and productivity.
 
+<img src="../Images/WORK HARD.png alt="Technical Writer vs GenAI" width="60%">
+
+
 GenAI does not pose a significant threat to technical writers. Their expertise in understanding complex concepts, providing context, and adapting content to different formats is difficult for AI to replicate. However, being open-minded and willing to learn how to use GenAI can be beneficial for technical writers. It can help them improve efficiency, explore new possibilities in content creation, and enhance their overall skill set. So rather than fearing AI, technical writers should see it as a tool that can complement their abilities and make them even more valuable in the evolving digital landscape.
