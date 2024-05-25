@@ -18,6 +18,6 @@ Another exciting aspect of using generative AI is the potential for creativity a
 
 However, it is important to acknowledge that there are potential drawbacks to using GenAI in technical writing. As an AI model generates content, there is always a risk of inaccuracies or errors. It is crucial for technical writers to carefully review and edit the generated text to ensure its accuracy and reliability. Additionally, while generative AI can assist in generating content quickly, it should not replace the expertise and knowledge of a human technical writer. The human touch is still necessary to provide context, understand the target audience, and tailor the content accordingly.
 
-<img src="../Images/TechWritingMarkel.png" alt="To use or not to use" width="60%">
+<img src="../Images/To be or not to be.png" alt="To use or not to use" width="60%">
 
 The use of GenAI in technical writing holds immense potential for improving efficiency, consistency, and creativity. While there are challenges to overcome and careful consideration is required, the incorporation of AI technology can revolutionize the way technical writers work. By embracing generative AI, we can enhance our ability to deliver high-quality technical content that meets the needs and expectations of our readers.
