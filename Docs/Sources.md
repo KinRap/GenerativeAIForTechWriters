@@ -35,8 +35,8 @@ nav_order: 8
 26.	[Data privacy and security in  GenAI-enabled services](https://www.scmagazine.com/perspective/data-privacy-and-security-in-genai-enabled-services)
 27.	[Deep Inside to Google Gemini : What’s Key Features and Why we Use?](https://medium.com/@DigitalQuill.ai/deep-inside-to-google-gemini-whats-key-features-and-why-we-use-ai-gpt-a6576b2e5024) 
 28.	[Effect of AI on Technical Writing](https://judy.hashnode.dev/effect-of-ai-on-technical-writing#heading-chatgpt) 
-29.	[Embracing AI in Localization: Bridging Tech and Human Expertise](https://oxoinnovation.com/generative-ai-vs-human-translators/
-30.	[Embracing the Future: How AI is Revolutionizing Technical Writing](https://michael-shan.medium.com/)embracing-the-future-how-ai-is-revolutionizing-technical-writing-9962104f6674)
+29.	[Embracing AI in Localization: Bridging Tech and Human Expertise](https://oxoinnovation.com/generative-ai-vs-human-translators/)
+30.	[Embracing the Future: How AI is Revolutionizing Technical Writing](https://michael-shan.medium.com/embracing-the-future-how-ai-is-revolutionizing-technical-writing-9962104f6674)
 31.	[ENERATIVE AI GUIDE Risks and limitations](https://www.icaew.com/technical/technology/artificial-intelligence/generative-ai-guide/risks-and-limitations) 
 32.	[Exploring opportunities in the generative AI value chain](https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain)
 33.	[FAIR USE, czyli kiedy w świetle prawa amerykańskiego możemy legalnie korzystać z cudzej twórczości?](https://skpipblog.pl/pl/fair-use-czyli-kiedy-w-swietle-prawa-amerykanskiego-mozemy-legalnie-korzystac-z-cudzej-tworczosci/)
@@ -44,7 +44,7 @@ nav_order: 8
 35.	[Generative AI & writing](https://wrc.charlotte.edu/generative-ai-writing/) 
 36.	[Generative AI and the Future of Technical Writing](https://www.banyansecurity.io/blog/future-technical-writing-generative-ai/)
 37.	[Generative AI for Technical Writer or Information Developers](https://www.slideshare.net/slideshow/generative-ai-for-technical-writer-or-information-developers/267265870) 
-38.	[Generative AI for Technical Writer or Information Developers](https://www.slideshare.net/slideshow/)generative-ai-for-technical-writer-or-information-developers/267265870v
+38.	[Generative AI for Technical Writer or Information Developers](https://www.slideshare.net/slideshow/generative-ai-for-technical-writer-or-information-developers/267265870)
 39.	[Generative AI will be a useful assistant in the process of storytelling](https://www.inma.org/blogs/product-initiative/post.cfm/generative-ai-will-be-a-useful-assistant-in-the-process-of-storytelling)
 40.	[Generative AI: Advantages, Disadvantages, Limitations, and Challenges](https://fact.technology/learn/generative-ai-advantages-limitations-and-challenges/) 
 41.	[Google Gemini](https://gemini.google.com/)
@@ -56,7 +56,7 @@ nav_order: 8
 47.	[Guidelines for academics aim to lessen ethical pitfalls in generative-AI use](https://www.nature.com/articles/d41586-024-01543-1) 
 48.	[How AI is Rewriting the Rulebook for Technical Writers?](https://medium.com/@zahwahjameel26/)how-ai-is-rewriting-the-rulebook-for-technical-writers-f308d843d393v
 49.	[How can you write content optimized for artificial](https://www.linkedin.com/advice/0/how-can-you-write-content-optimized-artificial-hk2o)f 
-50.	[How Does AI Impact Technical Writing?](https://essentialdata.com/how-does-ai-impact-technical-writing/
+50.	[How Does AI Impact Technical Writing?](https://essentialdata.com/how-does-ai-impact-technical-writing/)
 51.	[How GenAI Will Enhance a Technical Writer’s Capabilities](https://document360.com/blog/technical-writing-with-genai/) 
 52.	[How Technical Writers Can Master Prompt Engineering](https://document360.com/blog/prompt-engineering-for-technical-writers/)
 53.	[How Technical Writers Can Master Prompt Engineering](https://www.linkedin.com/pulse/how-technical-writers-can-master-prompt-engineering-sheebha-austin/) 
@@ -64,13 +64,13 @@ nav_order: 8
 55.	[How to craft a generative AI security policy that works](https://www.techtarget.com/searchSecurity/tip/How-to-craft-a-generative-AI-security-policy-that-works) 
 56.	[How To Train AI for Business: Best Practices and 3 Key Steps](https://www.bloomreach.com/en/blog/2023/how-to-train-ai-for-your-business-best-practices)
 57.	[How to train generative ai using your company’s data](https://3cloudsolutions.com/resources/how-to-train-generative-ai-using-company-data/)
-58.	[Introducing Gemini: our largest and most capable AI model](https://blog.google/technology/ai/google-gemini-ai/#introducing-gemini
+58.	[Introducing Gemini: our largest and most capable AI model](https://blog.google/technology/ai/google-gemini-ai/#introducing-gemini)
 59.	[Introduction to Training Data Poisoning: A Beginner’s Guide](https://www.lakera.ai/blog/training-data-poisoning)
 60.	[Jasper.ai](https://www.jasper.ai/)
-61.	[Know it all: ChatGPT and its key capabilities](https://soco.com.au/)know-it-all-chatgpt-and-its-key-capabilities-that-will-surprise-your-team/) 
+61.	[Know it all: ChatGPT and its key capabilities](https://soco.com.au/know-it-all-chatgpt-and-its-key-capabilities-that-will-surprise-your-team/) 
 62.	[Let's talk about AI: #2 The Top 5 AI Tools for Technical Writers](https://www.dxheroes.io/blog/lets-talk-about-ai-2-the-top-5-ai-tools-for-technical-writers) 
 63.	[LLM-s For Beginners](https://milenajoanna.github.io/FinalProjectVistulaLLM-sForBeginners/) 
-64.	[Managing the Risks of Generative AI](https://hbr.org/2023/06/managing-the-risks-of-generative-ai
+64.	[Managing the Risks of Generative AI](https://hbr.org/2023/06/managing-the-risks-of-generative-ai)
 65.	[MIcrisift Copilot](https://www.microsoft.com/en-us/microsoft-copilot) 
 66.	[OP prompts for technical writers](https://www.reddit.com/r/ChatGPTPromptGenius/comments/16w58cq/op_prompts_for_technical_writers/?rdt=39468)
 67.	[OpenAI GPT-3: Everything You Need to Know](https://www.springboard.com/blog/data-science/machine-learning-gpt-3-open-ai/)
@@ -86,7 +86,7 @@ nav_order: 8
 77.	[Terms & policies](https://openai.com/policies/)
 78.	[The Benefits and Limitations of Generative AI: Harvard Experts Answer Your Questions](https://www.harvardonline.harvard.edu/blog/benefits-limitations-generative-ai)
 79.	[The best AI productivity tools in 2024](https://zapier.com/blog/best-ai-productivity-tools/)
-80.	[The Dark Side of AI in Technical Writing](https://www.linkedin.com/pulse/dark-side-ai-technical-writing-samir-senapati/
+80.	[The Dark Side of AI in Technical Writing](https://www.linkedin.com/pulse/dark-side-ai-technical-writing-samir-senapati/)
 81.	[The ethics of generative AI: How we can harness this powerful technology](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/)
 82.	[The Impact of AI on Technical Writing: Limitations, Challenges, and Future](https://www.toolify.ai/ai-news/the-impact-of-ai-on-technical-writing-limitations-challenges-and-future-2243809)
 83.	[The Intersection of AI and Technical Writing](https://medium.com/@soravideoai2024/the-intersection-of-ai-and-technical-writing-2460df4ec88d)
@@ -108,9 +108,8 @@ nav_order: 8
 99.	[What is Generative AI?](https://www.nvidia.com/en-us/glossary/generative-ai/)
 100. [What is Google Gemini?](https://zapier.com/blog/google-gemini/?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_nb_desktop_blog_prospecting_developing1_developing2-ads&utm_term=&utm_content=1011539&utm_ads_campaign_id=19622168382&utm_ads_adset_id=157760468828&utm_ads_ad_id=659058345731&gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3woeKa_7qD2P7Q2yZz_UZ-BDBLn_1xKCZjJyebGwo8C-Jbnc16rO5tEaAoggEALw_wcB) 
 101. [Who owns the code? If ChatGPT's AI helps write your app, does it still belong to you?](https://www.zdnet.com/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/)
-102. [Writesonic](AI https://writesonic.com/) 
-103. [Writesonic](https://writesonic.com/)
-104. [Writesonic](Review 2024: The Best AI-Powered Writing Tool? https://www.elegantthemes.com/blog/business/writesonic) 
-105. [Writesonic](Review: Features, Pricing, Benefits, and More https://www.scripted.com/writesonic-review-features-pricing-benefits) 
-106. [Writesonic](vs. ChatGPT: Which AI Writing Tool Is Best? https://clickup.com/blog/writesonic-vs-chatgpt/) 
+102. [Writesonic](https://writesonic.com/)
+103. [Review 2024: The Best AI-Powered Writing Tool?](https://www.elegantthemes.com/blog/business/writesonic) 
+104. [Writesonic Review: Features, Pricing, Benefits, and More](https://www.scripted.com/writesonic-review-features-pricing-benefits) 
+106. [Writesonic vs. ChatGPT: Which AI Writing Tool Is Best?](https://clickup.com/blog/writesonic-vs-chatgpt/) 
 107. [Wyszukiwarka Google przejdzie rewolucję. Co to jest AI Overviews?](https://nano.komputronik.pl/n/wyszukiwarka-google-ai-overviews-gemini/)  
