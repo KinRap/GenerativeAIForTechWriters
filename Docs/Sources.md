@@ -28,7 +28,7 @@ nav_order: 8
 19.	[ChatGPT Limitations: What You Need to Know Before Diving In](https://jenni.ai/chat-gpt/errors-limitations?seg_acam=21034416380&utm_campaign=21034416380&utm_source=x&utm_medium=cpc&utm_content=&utm_term=&ad_id=&gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3wp_uwLUi7fSdSNshrPZpsfOIT5yzk9lUboJTtpd7N_MkkMxfeEhMVgaArnXEALw_wcB) 
 20.	[ChatGPT Prompts for Technical Writers - Boost Your Productivity and Creativity](https://beingtechnicalwriter.com/chatgt-prompts/) 
 21.	[ChatGPT Prompts For Technical Writing](https://clickup.com/templates/ai-prompts/technical-writing?utm_source=google-pmax&utm_medium=cpc&utm_campaign=gpm_cpc_ar_nnc_pro_trial_all-devices_tcpa_lp_x_all-departments_x_pmax&utm_content=&utm_creative=_____&gad_source=1&gclid=Cj0KCQjwmMayBhDuARIsAM9HM8dcV0DujsCtV9kfBCGS-5K9j9JbuO_CboZ5kSRihk3Hxw7kUskxc_4aAuwJEALw_wcB) 
-22.	[ChatGPT's Top Prompts for Technical Writing](https://promptadvance.club/blog/chat-gpt-prompts-for-technical-writing
+22.	[ChatGPT's Top Prompts for Technical Writing](https://promptadvance.club/blog/chat-gpt-prompts-for-technical-writing)
 23.	[Confronting the risks of artificial intelligence](https://www.sipotra.it/wp-content/uploads/2019/05/Confronting-the-risks-of-artificial-intelligence.pdf)
 24.	[Data Annotation in 2024: Why it matters & Top 8 Best Practices](https://research.aimultiple.com/data-annotation/) 
 25.	[DATA POISONING:THE EXPLOITATION OF GENERATIVE AI](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/data-poisoning/)
@@ -54,7 +54,7 @@ nav_order: 8
 45.	[Grammarly Free vs Premium 2024: Which One is Good For You?](https://www.linkedin.com/pulse/grammarly-free-vs-premium-2024-which-one-good-you-rahul-vishwakarma-r5ikc/)
 46.	[Grammarly](https://www.grammarly.com/)
 47.	[Guidelines for academics aim to lessen ethical pitfalls in generative-AI use](https://www.nature.com/articles/d41586-024-01543-1) 
-48.	[How AI is Rewriting the Rulebook for Technical Writers?](https://medium.com/@zahwahjameel26/)how-ai-is-rewriting-the-rulebook-for-technical-writers-f308d843d393v
+48.	[How AI is Rewriting the Rulebook for Technical Writers?](https://medium.com/@zahwahjameel26/how-ai-is-rewriting-the-rulebook-for-technical-writers-f308d843d393)
 49.	[How can you write content optimized for artificial](https://www.linkedin.com/advice/0/how-can-you-write-content-optimized-artificial-hk2o)f 
 50.	[How Does AI Impact Technical Writing?](https://essentialdata.com/how-does-ai-impact-technical-writing/)
 51.	[How GenAI Will Enhance a Technical Writer’s Capabilities](https://document360.com/blog/technical-writing-with-genai/) 
