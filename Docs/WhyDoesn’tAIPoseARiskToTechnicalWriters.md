@@ -13,6 +13,8 @@ Many people in the field of technical writing may be concerned about the rise of
 
 Firstly, while GenAI has made great strides in natural language processing and generation, it still lacks the human touch and creativity that is essential in technical writing. Technical writers possess the ability to understand complex concepts and translate them into clear and concise language that is easily understandable by the target audience. This requires a deep understanding of both the subject matter and the needs of the readers, something that AI struggles to replicate.
 
+<img src="../Images/end.png" alt="TechWriter > GenAI" width="100%">
+
 Furthermore, technical writing is not just about conveying information, but also about providing context and guidance. Technical writers often work closely with subject matter experts to ensure accuracy and relevance in their documentation. They have the ability to ask questions, clarify doubts, and capture nuances that may not be readily apparent. This level of interaction and collaboration is difficult for AI to achieve, as it lacks the ability to engage in meaningful dialogue.
 
 Additionally, technical writing involves adapting content to different formats and platforms. Technical writers are skilled in using various tools and software to create visually appealing and user-friendly documentation. They understand the importance of structuring information effectively, using headings, bullet points, and other formatting techniques to enhance readability. While GenAI can generate text, it may struggle with these aspects of presentation and organization.
