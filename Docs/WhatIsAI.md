@@ -9,6 +9,7 @@ nav_order: 3
 ***
 
 **Artificial Intelligence (AI)** refers to technology that simulates human intelligence in machines, enabling them to think and act in ways similar to humans. This includes developing algorithms and computer programs that can perform tasks generally associated with human intelligence, like visual perception, speech recognition, decision-making, and language translation.
+
 <div style="text-align: center"><img src="../Images/AI.png" alt="AI Definition" width="60%"></div>
 
 ## Intelligence
