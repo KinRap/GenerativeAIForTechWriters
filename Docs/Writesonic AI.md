@@ -12,7 +12,7 @@ nav_order: 7
 
 Writesonic AI is a powerful tool for anyone involved in content creation, providing a blend of creativity, efficiency, and precision to enhance writing productivity. It is a versatile, AI-powered writing tool designed to assist with various content creation needs. Leveraging advanced Natural Language Processing (NLP) models. Writesonic enables users to generate high-quality written content quickly and efficiently.
 
-[How Writesinic works?](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Writesonic%20AI.html)
+[How does Writesonic works?](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Writesonic%20AI.html)
 
 ![How does Writesonic AI works](../Images/writesonic%20-%20how%20it%20works.png)
 
