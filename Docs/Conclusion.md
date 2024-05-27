@@ -15,4 +15,4 @@ Another subchapter that awaits us in this conclusion chapter revolves around a p
 
 As we embark on this concluding chapter, I encourage you to keep an open mind and explore the intricacies of these important topics. By examining the use or non-use of AI by technical writers and considering why AI may not pose a significant threat to our profession, we can gain valuable insights that shape the future of technical writing.
 
-<img src="../Images/VS.png" alt="Technical writer vs. Generative AI" width="60%">
+<div style="text-align: center"><img src="../Images/VS.png" alt="Technical writer vs. Generative AI" width="60%"></div>
