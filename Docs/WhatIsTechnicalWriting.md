@@ -19,7 +19,7 @@ The professionalization of technical writing and communication started around Wo
 
 The biggest part of technical communications is technical writing. Technical writers team up with editors, graphic designers, illustrators, document specialists, content managers, instructional designers, trainers, and analysts, to produce a diverse array of deliverables. While many people today associate technical writing with computer and software manuals, it spans any field or industry where complex information, processes, or instructions must be conveyed clearly. 
 
-<img src="../Images/TechWritingMarkel.png" alt="Technical Writing" width="60%">
+<div style="text-align: center"><img src="../Images/TechWritingMarkel.png" alt="Technical Writing" width="60%"></div>
 
 
 Effective technical writing delivers relevant, useful, and precise information designed for specific audiences, enabling them to perform certain actions toward a defined goal. This goal could be anything from operating industrial machinery, using software, avoiding accidents, safely consuming packaged food, diagnosing a medical condition, complying with regulations, coaching a sports team, to countless other activities. If a task requires specialized knowledge or skill, technical writing plays a crucial role.
