@@ -9,7 +9,7 @@ nav_order: 3
 ***
 
 **Artificial Intelligence (AI)** refers to technology that simulates human intelligence in machines, enabling them to think and act in ways similar to humans. This includes developing algorithms and computer programs that can perform tasks generally associated with human intelligence, like visual perception, speech recognition, decision-making, and language translation.
-<img src="../Images/AI.png" alt="AI Definition" width="60%">
+<div style="text-align: center"><img src="../Images/AI.png" alt="AI Definition" width="60%"></div>
 
 ## Intelligence
 ***
@@ -78,7 +78,7 @@ In this article, we aim to focus on what **Generative AI** is and whether, or ra
 
 ## Generative AI
 ***
-<img src="../Images/GenerativeAI.png" alt="Generative AI" width="60%">
+<div style="text-align: center"><img src="../Images/GenerativeAI.png" alt="Generative AI" width="60%"></div>
 
 
 **Generative AI (Gen AI)** refers to an AI model that produces content based on a given prompt. It involves algorithms that can be employed to produce new content, including audio, code, images, text, simulations, and videos. While the full extent of Gen AI's potential is still being explored, there is some information already on how Gen AI models are built, what specific challenges they excel at addressing, and how they relate to other AI and machine learning technologies. 
