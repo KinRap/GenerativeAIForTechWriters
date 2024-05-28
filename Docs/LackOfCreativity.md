@@ -1,7 +1,7 @@
 ---
 title: Lack of Creativity
 layout: default
-parent: Risk & Limitations
+parent: Risks & Limitations
 nav_order: 5
 ---
 <img src="../Images/4.png" alt="Header Risk And Limitations" width="100%">
