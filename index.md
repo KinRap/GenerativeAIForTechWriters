@@ -35,7 +35,7 @@ Explore the impact of Generative AI on technical writing. Discover its potential
     - [Lack of Creativity](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/LackOfCreativity.html)
     - [Legal & Ethical Issues](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Legal&EthicalIssues.html)
     - [Training](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/TrainingR&L.html)
-    -[Human Oversight](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/HumanOversight.html)
+    - [Human Oversight](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/HumanOversight.html)
 5. [Tools](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Tools.html)
    - [ChatGPT](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/ChatGPT.html)
    - [Jasper AI](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/JasperAI.html)

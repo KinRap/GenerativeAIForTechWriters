@@ -33,9 +33,9 @@ For user manuals and guides, AI can create detailed step-by-step instructions fo
 #### **Release Notes and Changelogs** ####
 When it comes to release notes and changelogs, AI can track changes in the codebase and compile release notes that highlight new features, bug fixes, and improvements. 
 
-### Images and Videos ###
+#### Images and Videos ####
 
-Thank to GenAI such algorithms can be generative in the sense that they have the capability to generate new and original content of images, videos, or text that is hardly distinguishable from humans. This can be seen as very helpful.
+Thanks to GenAI such algorithms can be generative in the sense that they have the capability to generate new and original content of images, videos, or text that is hardly distinguishable from humans. This can be seen as very helpful.
 
 --- 
 

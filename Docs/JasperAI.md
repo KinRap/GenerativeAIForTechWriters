@@ -14,7 +14,7 @@ Jasper AI has evolved into a universal writing aid that leverages AI for text cr
 
 ### Features: ###
 
--	-	Content Generation such as blog posts, articles, website copy, and even books with Jasper's assistance.
+-	Content Generation such as blog posts, articles, website copy, and even books with Jasper's assistance.
 -	Refinement of existing content by improving its clarity, conciseness, and overall quality.
 -	Grammar and spelling correction for accurate and error-free writing.
 -	Generation of compelling marketing copy for landing pages, product descriptions, and sales emails.
@@ -25,9 +25,9 @@ Jasper AI has evolved into a universal writing aid that leverages AI for text cr
 -	Generation of creative writing prompts and ideas to overcome writer's block.
 -	Voice commands for hands-free operation.
 -	Multilingual support.
--	Customizable Templates.
--	Integration with Other Tools.
--	Built-in Chrome Extension.
+-	Customizable templates.
+-	Integration with other tools.
+-	Built-in Chrome extension.
 -	Plagiarism checker to ensure originality and proper citation.
 
 

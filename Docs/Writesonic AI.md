@@ -10,9 +10,9 @@ nav_order: 7
 
 <img src="../Images/writesonic.png" alt="Writesonic" width="100%">
 
-Writesonic AI is a powerful tool for anyone involved in content creation, providing a blend of creativity, efficiency, and precision to enhance writing productivity. It is a versatile, AI-powered writing tool designed to assist with various content creation needs. Leveraging advanced Natural Language Processing (NLP) models. Writesonic enables users to generate high-quality written content quickly and efficiently.
+Writesonic AI is a powerful tool for anyone involved in content creation, providing a blend of creativity, efficiency, and precision to enhance writing productivity. It is a versatile, AI-powered writing tool designed to assist with various content creation needs. Leveraging advanced **Natural Language Processing (NLP)** models, Writesonic enables users to generate high-quality written content quickly and efficiently.
 
-[How does Writesonic works?](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Writesonic%20AI.html)
+[How does Writesonic works?](https://writesonic.com/)
 
 ![How does Writesonic AI works](../Images/writesonic%20-%20how%20it%20works.png)
 
@@ -30,9 +30,9 @@ Writesonic AI is a powerful tool for anyone involved in content creation, provid
 -	Brand Voice helps with Writesonic's AI training to write in your personal tone/style.
 -	Customize the tone of the content to match the brand voice.
 -	Convert written content into different AI voices for a more engaging presentation.
--	Multilingual Support to generate content for a wider audience.
+-	Multilingual support to generate content for a wider audience.
 -	Chatsonic - interactive chatbot allows you to have a conversation with an AI persona to brainstorm ideas or generate creative text formats.
--	Self-Guided, Self-Learning AI Agents Trained on your Own Data.
+-	Self-guided, self-learning AI agents trained on your own data.
 -	Real-time SEO insights to optimize content, improve search rankings, and boost website traffic.
 
 ### Plan ###
@@ -48,9 +48,9 @@ Writesonic offers a variety of [pricing plans](https://writesonic.com/pricing) t
 3.	**Individual**: 
 -	Available at $12 per month (billed annually) or $30 per month (billed monthly). It is dedicated for freelancers and content writers. This plan gives access to bunch of AI templates for generating blog posts, articles, product descriptions, and additional perks such as: Audiosonic, Plagiarism Checker, API access for seamless integration into your workflow.
 4.	**Standard**: 
--	Available at $79 per month (billed annually) or $99 per month (billed monthly). Dedicated to solo marketers and small teams focusing on foundational content and SEO practices. This plan gives acces Elite quality on AI Article Writer 6.0 which can be integrated with your own data into the AI Article Writer 6.0 for personalized results, and AI Content Gap Analyzer. 
+-	Available at $79 per month (billed annually) or $99 per month (billed monthly). Dedicated to solo marketers and small teams focusing on foundational content and SEO practices. This plan gives acces elite quality on AI Article Writer 6.0 which can be integrated with your own data into the AI Article Writer 6.0 for personalized results, and AI Content Gap Analyzer. 
 5.	**Professional Plan**: 
--	Priced at $199 per month when billed annually (or $249 when billed monthly). It is dedicated to SEOs. This plan gives access Elite quality on AI Article Writer 6.0 which can be integrated with your own data into the AI Article Writer 6.0 for personalized results. You can add 3 members of your team here.  
+-	Priced at $199 per month when billed annually (or $249 when billed monthly). It is dedicated to SEOs. This plan gives access elite quality on AI Article Writer 6.0 which can be integrated with your own data into the AI Article Writer 6.0 for personalized results. You can add 3 members of your team here.  
 6.	**Advanced Plan**:
 -	Priced at $399 per month when billed annually (or $499 when billed monthly). Dedicated to agencies and in-house marketing teams. Provides a Generative AI platform and offers advanced privacy and security features.
 7.	**Enterprise**:

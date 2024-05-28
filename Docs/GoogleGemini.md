@@ -29,7 +29,7 @@ Google Gemini is a family of AI models. they can understand and generate text li
 -	Multilingual support.
 -	Integration with Google Services. 
 -	Visual context analysis to understand and interpret visual content.
--	Variety of Ad Formats & Game Creation.
+-	Variety of ad formats & game greation.
 
 
 ### Plan ###
