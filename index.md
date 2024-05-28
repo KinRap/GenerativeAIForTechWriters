@@ -28,7 +28,7 @@ Explore the impact of Generative AI on technical writing. Discover its potential
       - [Translation and Localization](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Translation.html)
       - [Personalization](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Personalization.html)
    - [Assistant](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Assistant.html)
-4. [Risk & Limitations](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Risk&Limitations.html)
+4. [Risks & Limitations](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Risk&Limitations.html)
     - [Quality](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Quality.html)
     - [Falsification](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Falsification.html)
     - [Data Privacy & Security](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/DataPrivacy&Security.html)
