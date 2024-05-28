@@ -5,6 +5,7 @@ layout: default
 parent: Tools
 nav_order: 8
 ---
+<img src="../Images/6.png" alt="Header Tools" width="100%">
 
 ## **Grammarly** ##
 ***
