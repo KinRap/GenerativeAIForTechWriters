@@ -1,7 +1,7 @@
 ---
 title: Data Privacy & Security
 layout: default
-parent: Risks & Limitations
+parent: Risk & Limitations
 nav_order: 4
 ---
 <img src="../Images/4.png" alt="Header Risk And Limitations" width="100%">
