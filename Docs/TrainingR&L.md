@@ -11,7 +11,7 @@ nav_order: 7
 
 We know that for GenAI to deliver high-quality information, it must be properly trained. This requires not only preparing the training data appropriately, but also updating and working with it to ensure that the generated content is not discriminatory or offensive. Similarly, while AI training presents enormous opportunities to improve the quality of the information received, it also carries certain limitations and risks.
 
-## Risks: ##
+## Risks ##
 AI is trained using **Large Language Models (LLMs)**. Their improper use can lead to manipulation and falsification of training data to yield inappropriate results. These include:
 1.	**Prompt Injection**: Prompt is not just a user instruction when using GenAI. There is also a training method for **Language Models (LMs)** that relies on prompts. By taking a block of text or context, a **Large Language Model (LLM)** tries to compute the most probable next character, word, or phrase. This type of training allows for data manipulation. Prompt Injection involves injecting biased, malicious, or misleading prompts into **Large Language Models (LLMs)** to manipulate their results or behaviour. Prompt injection attacks aim to elicit unintended responses from LLM-based tools. This can lead to the dissemination of misinformation, reinforcement of biases, or even the generation of harmful content.
 2.	**Training Data Poisoning**: This is a type of cyberattack in which manipulation of training data or tuning procedures can influence the responses of GenAI or LLM. This can be done by:

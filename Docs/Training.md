@@ -20,7 +20,7 @@ GenAI enables users to produce a variety of content types, including text, image
 
 | Dataset      | Quantity (tokens) | Weight in training mix | Epochs elapsed when training for 300B tokens|
 | -------------| ----------------- | ---------------------- | ------------------------------------------- |
-| Common Crawl (fileterd) | 410 billion | 60%               | 0.44                                        |
+| Common Crawl (filtered) | 410 billion | 60%               | 0.44                                        |
 | WebText2     | 19 billion             | 22%	            | 2.9                                         |
 | Books1       | 12 billion             | 8%                | 1.9                                         |
 | Books2       | 55 billion	            | 8%                | 0.43                                        |
@@ -28,7 +28,7 @@ GenAI enables users to produce a variety of content types, including text, image
 
 
 
-Initially, text-based machine learning models used supervised learning, where humans labelled data for the AI to learn from, such as classifying social media posts by sentiment. Now, models use self-supervised learning, processing extensive text data to predict sentence endings. This method powers accurate tools like ChatGPT. Generative AI evolves by training on increasingly larger data sets. It relies on AI models and algorithms trained on vast amounts of unlabelled data, requiring complex mathematics and significant computing power. These data sets enable the AI to predict outcomes similarly to how humans might act or create independently. Generative AI models employ neural networks to recognize patterns within available data, enabling the creation of fresh content. These models serve as the backbone for AI systems to execute various tasks. 
+Initially, text-based machine learning models used supervised learning, where humans labelled data for the AI to learn from, such as classifying social media posts by sentiment. Now, models use self-supervised learning, processing extensive text data to predict sentence endings. This method powers accurate tools like ChatGPT. Generative AI evolves by training on increasingly larger data sets. It relies on AI models and algorithms trained on vast amounts of unlabeled data, requiring complex mathematics and significant computing power. These data sets enable the AI to predict outcomes similarly to how humans might act or create independently. Generative AI models employ neural networks to recognize patterns within available data, enabling the creation of fresh content. These models serve as the backbone for AI systems to execute various tasks. 
 
 GenAI applications are aiding various business functions. However, one of the major hurdles in AI system development is the training of models. Proficiency in training AI models effectively is crucial. 
 
@@ -48,12 +48,12 @@ Training an AI model involves a series of steps, which may vary depending on the
 4.	**Choose a Model Architecture** - Select a suitable AI model architecture, like a convolutional neural network (CNN) for images or a recurrent neural network (RNN) for sequential data.
 5.	**Model Training** - Use the pre-processed data to train the chosen AI model. During training, the model learns to make predictions by adjusting its parameters based on input data.
 6.	**Evaluation** - Assess the model's performance using a separate dataset it hasn't seen before. Common evaluation metrics include accuracy, precision, recall, and F1-score.
-7.	**Finetuning and Optimization** - Refine the model by adjusting hyperparameters and experimenting with different architectures and optimization techniques to enhance performance.
+7.	**Fine-tuning and Optimization** - Refine the model by adjusting hyperparameters and experimenting with different architectures and optimization techniques to enhance performance.
 8.	**Deployment** -  Deploy the trained model into production for real-world applications, where it can make predictions or perform tasks.
 9.	**Monitoring and Maintenance** - Continuously monitor the model's performance and periodically retrain it with new data to keep it accurate and up-to-date.
 
 
-### DataSet Preparation and Data Preprocessing ###
+### Dataset Preparation and Data Preprocessing ###
 
 Prior to training AI and machine learning algorithms, it is essential to collect and prepare data meticulously. This stage of model training seems the most significant to a technical writer. Without high-quality data, the performance of the machine and deep learning models will be compromised, hindering their ability to fulfill their intended functions. But remember that utilizing your company's data for AI training entails a dual responsibility of upholding stringent security measures and ethical guidelines. Safeguarding data against potential breaches necessitates the implementation of robust security protocols such as data encryption, access controls, and regular security audits. Ethically, it is imperative to utilize data in a manner that is fair, unbiased, and respects privacy rights. When leveraging company data, it is essential to adopt strategies that align with organizational goals while maintaining data security and ethical standards. 
 
@@ -71,7 +71,7 @@ The selection of appropriate data collection methods holds significant importanc
 
 Customizing the data collection approach to cater to the project's specific ensures the relevance of the collected data and the provision of targeted insights for the AI model.
 
-[**Best practices**](https://research.aimultiple.com/data-collection-best-practices/): 
+[**Best practices**](https://research.aimultiple.com/data-collection-best-practices/) 
 
 ![Best Practices](../Images/BestPractices.png) 
  
@@ -98,7 +98,7 @@ After successfully navigating through the initial training phase, the model cons
 ### Testing ### 
 Following validation using carefully selected and tailored datasets, the model can be put to the test with real-time data to assess its performance and accuracy. This stage involves utilizing datasets from real-world contexts, which represents a crucial step akin to removing training wheels, allowing the model to operate independently. If the model delivers accurate—and, notably, expected—results with the test data, it is deemed ready for deployment. However, should any deficiencies arise in the model's performance, the training process must be revisited until the model meets or surpasses performance benchmarks.
 
-To see more about LLM’s training go to the website [LLM_training](https://milenajoanna.github.io/FinalProjectVistulaLLM-sForBeginners/docs/LLM_training.html).
+To learn more about LLM training visit [LLM_training](https://milenajoanna.github.io/FinalProjectVistulaLLM-sForBeginners/docs/LLM_training.html).
 
 ---
 

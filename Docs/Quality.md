@@ -21,7 +21,7 @@ It is, therefore, necessary to understand different contexts so that the specifi
 
 Non-defective outputs are not guaranteed from generative AI systems, as the decisions may have flaws or consist of errors and artifacts due to low or poor-quality data, poor training, or the use of complex models. Possible complications include a reduction in the skills of real human writers who depend on AI tools and the possibility that drafts produced by AI tools may not be carefully checked.
 
-For new materials, guidance is required on the new topic to make the cross-reference from the content to existing domain knowledge. Difficulties with more complex formats can be counterintuitive and present a challenge to GenAI. Content generators can translate texts but may fail to grasp the nuances of written language as effectively as humans do. While they can be a good starting point for translation, relying on them can cause issues on an international level.
+For new materials, guidance is required on the new topic to make the cross-reference from the content to existing domain knowledge. Difficulties with more complex formats can be counterintuitive and present a challenge to GenAI. Content generators can translate texts, but may fail to grasp the nuances of written language as effectively as humans do. While they can be a good starting point for translation, relying on them can cause issues on an international level.
 
 Additionally, GenAI can generate not only text but also images, voices, and videos. However, these outputs are not always accurate and often need fine-tuning.
 

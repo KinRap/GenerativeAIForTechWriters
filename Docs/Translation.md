@@ -10,7 +10,7 @@ nav_order: 4
 ### **Translation and Localization** ###
 ***
 
-People speak over 7,000 languages, but the business knows no bounds. Communication cannot be a hindrance here. Therefore, technical documents often need to be translated into multiple languages. Although fluency in a foreign language may seem to be the only way to achieve effective translations, the world provides us with additional possibilities such as **Machine Translation (MT)**. However, it is essential not to forget that GenAI can also play a significant role in this field.
+People speak over 7,000 languages, but the business knows no bounds. Communication cannot be a hindrance here. Therefore, technical documents often need to be translated into multiple languages. Although fluency in a foreign language may seem to be the only way to achieve effective translations, the world provides us with additional possibilities, such as **Machine Translation (MT)**. However, it is essential not to forget that GenAI can also play a significant role in this field.
 
 Generative AI models, especially those specialized in  **Natural Language Processing (NLP)**, redefine language translation for technical writers. Trained on extensive linguistic datasets, these advanced AI models possess the capability to comprehend and interpret text across various languages with unparalleled accuracy.
 
