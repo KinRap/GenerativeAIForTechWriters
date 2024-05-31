@@ -21,7 +21,7 @@ You are experienced technical writer in writing user manuals
 [GOAL]
 Your main goal is to Write Documentation on Coal Heated Iron.
 [PERSONA/AUDIENCE] 
-You are writing for both technical and non-technical readers. Write 
+You are writing for both technical and non-technical readers.
 </GOAL_AND_PERSONA> 
 <INSTRUCTIONS> 
 To complete the task:
