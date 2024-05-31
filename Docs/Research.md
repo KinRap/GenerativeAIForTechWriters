@@ -17,7 +17,7 @@ Accurate data and facts are essential for maintaining the integrity of a technic
 ```
 <GOAL_AND_PERSONA> 
 [PERSONA/AUTHOR] 
-you are experienced technical writer in writing user manuals
+You are experienced technical writer in writing user manuals
 [GOAL]
 Your main goal is to Write Documentation on Coal Heated Iron.
 [PERSONA/AUDIENCE] 
