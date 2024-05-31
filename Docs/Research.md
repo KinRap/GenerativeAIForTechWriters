@@ -53,7 +53,7 @@ use a formal and informative tone.
 
 **Gemini**
 
-<img src="../Images/Example3Gemini.png" alt="Gemini Research Response 1st part" width="60%">
-<img src="../Images/Example3Gemini2.png" alt="Gemini Research Response 2nd part" width="60%">
+<img src="../Images/Example3Gemini2.png" alt="Gemini Research Response 1st part" width="60%">
+<img src="../Images/Example3Gemini.png" alt="Gemini Research Response 2nd part" width="60%">
 
 GenAI models can be useful for technical writers in researching and fact-checking, especially if they have access to a wide range of information and sources. However, a problem may arise with completely new technologies that the model has not been trained on before. In such situations, manual adjustments or additions to the documentation may be necessary to ensure its accuracy and completeness. In these cases, the knowledge and experience of a human editor may still be necessary.
