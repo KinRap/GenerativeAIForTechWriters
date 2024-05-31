@@ -63,4 +63,4 @@ The concept of "logical flow" in writing encompasses all elements that facilitat
 <img src="../Images/EXGemini2.png" alt="Gemini Logical Flow Response" width="60%">
 
 
-It seems that all GenAI models responded correctly to the prompt, although the most detailed and fluid document structure can be observed in Copilot's response. However, in the conclusion (Gemini's response) there were references to modern irons, which should not occur in the instructions for a coal heated iron. Therefore, the Conclusion and Introduction are best prepared by Chat GPT.
+It seems that all GenAI models responded correctly to the prompt, although the most detailed and fluid document structure can be observed in Copilot's response. Therefore, the Conclusion and Introduction are best prepared by Chat GPT. However, each structural element proposed by Gemini has been tailored to individual audience groups.
