@@ -9,7 +9,7 @@ has_children: true
 # **Prompt Design Strategies** #
 ***
 
-The term **'prompt'** is essential for understanding the interaction between humans and language models in AI. It refers to a natural language request given to a model to trigger a response. Prompts may include questions, directives, contextual information, few-shot examples, or incomplete inputs needing continuation. The model's output can range from text and embeddings to code, images, videos, music, and more, based on its specific functions. This paragraph examines the concept of prompts, detailing their various forms and the expansive possibilities they offer in artificial intelligence.
+The term **Prompt** is essential for understanding the interaction between humans and language models in AI. It refers to a natural language request given to a model to trigger a response. Prompts may include questions, directives, contextual information, few-shot examples, or incomplete inputs needing continuation. The model's output can range from text and embeddings to code, images, videos, music, and more, based on its specific functions. This paragraph examines the concept of prompts, detailing their various forms and the expansive possibilities they offer in artificial intelligence.
 
 <div style="text-align: center"><img src="../Images/prompt.png" alt="Prompt Definition" width="60%"></div>
 
