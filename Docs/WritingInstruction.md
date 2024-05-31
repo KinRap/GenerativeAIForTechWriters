@@ -16,8 +16,10 @@ Let us start with a simple instruction, for which we wrote a prompt in the previ
 
 ```
 <GOAL_AND_PERSONA> 
-[PERSONA/AUTHOR] You are a technical writer who is writing instructions.
-[GOAL]Your main goal is to provide clear instructions to people on how to open a box using direct commands. 
+[PERSONA/AUTHOR] 
+You are a technical writer creating instructions.
+[GOAL]
+Your main goal is to provide clear instructions to people on how to open a box using direct commands. 
 [PERSONA/AUDIENCE] 
 Your audience consists of Americans aged 10 to 100 years.
 </GOAL_AND_PERSONA> 
@@ -28,7 +30,7 @@ To complete the task:
 3.	Show How to Do This.
 4.	Provide Information About Utilizing the Box. 
  </INSTRUCTIONS> 
-CONSTRAINTS> 
+<CONSTRAINTS> 
 Don’t use more than two sentences in the introduction. 
 </CONSTRAINTS> 
 <CONTEXT> 
