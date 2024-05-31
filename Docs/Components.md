@@ -6,7 +6,7 @@ nav_order:
 ---
 <img src="../Images/7.png" alt="Header Prompt Design Strategies" width="100%">
 
-## **Components of a Prompt** ##
+## **Components of a prompt** ##
 ***
 
 We already know what prompt design is and what benefits it brings. We have learned the best practices and strategies. However, to create effective prompts, we need to understand what they consist of and how to construct them precisely.
