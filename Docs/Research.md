@@ -25,7 +25,7 @@ You are writing for both technical and non-technical readers. Write
 </GOAL_AND_PERSONA> 
 <INSTRUCTIONS> 
 To complete the task:
-1.	Examine, Validate, and Verify Technical Aspects: Thoroughly review all technical aspects related to using coal heated iron. Ensure accuracy and correctness.
+1. Examine, Validate, and Verify Technical Aspects: Thoroughly review all technical aspects related to using coal heated iron. Ensure accuracy and correctness.
 2. Craft Precise and Transparent Documentation: Create documentation that offers clear and concise instructions suitable for both technical and non-technical readers. The information provided should be easily understandable.
 3. Validate Details Using Credible Sources: Confirm the accuracy of all details by referencing reliable sources. Ensure that the information presented is trustworthy and backed by credible references.
 4. Maintain Consistency: Uphold consistency in terminology and formatting throughout the documentation. This ensures clarity and coherence in the instructions provided.
