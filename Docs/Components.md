@@ -2,7 +2,7 @@
 title: Components of a prompt 
 layout: default
 parent: Prompt Design Strategies
-nav_order: 4
+nav_order: 5
 ---
 <img src="../Images/7.png" alt="Header Prompt Design Strategies" width="100%">
 
