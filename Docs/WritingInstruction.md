@@ -58,15 +58,15 @@ Always format your response in Markdown format.
 
 ### Effect ###
 
-ChatGpt
+**ChatGpt** 
 
 <img src="../Images/Example1ChatGPT.png" alt="ChatGPT Response" width="60%">
 
-Copilot
+**Copilot**
 
 <img src="../Images/Example1Copilot.png" alt="Copilot Response" width="60%">
 
-Gemini
+**Gemini**
 
 <img src="../Images/Example1Gemini.png" alt="Gemini Response" width="60%">
 
