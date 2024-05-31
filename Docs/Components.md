@@ -2,7 +2,7 @@
 title: Components of a prompt 
 layout: default
 parent: Prompt Design Strategies
-nav_order: 
+nav_order: 4
 ---
 <img src="../Images/7.png" alt="Header Prompt Design Strategies" width="100%">
 
@@ -20,5 +20,6 @@ A prompt encompasses the following elements:
 
 A prompt can contain more elements. Some of them may be crucial for achieving the desired response.
 Essential and optional component of a [prompt](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies):
+
 
 
