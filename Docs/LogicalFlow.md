@@ -1,0 +1,10 @@
+---
+title: Create Logical Flow
+layout: default
+parent: Examples
+nav_order: 6
+---
+<img src="../Images/7.png" alt="Header Prompt Design Strategies" width="100%">
+
+## **Create Logical Flow** ##
+***
