@@ -9,3 +9,20 @@ nav_order: 9
 
 ## **Code Generation** ##
 ***
+
+
+### Example ###
+
+
+
+
+### Effect ###
+
+**ChatGPT**
+
+
+
+**Copilot**
+
+
+**Gemini**

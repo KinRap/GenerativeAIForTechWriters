@@ -9,3 +9,22 @@ nav_order: 5
 
 ## **Research & Fact-Check** ##
 ***
+
+
+
+
+### Example ###
+
+
+
+
+### Effect ###
+
+**ChatGPT**
+
+
+
+**Copilot**
+
+
+**Gemini**

@@ -9,3 +9,22 @@ nav_order: 7
 
 ## **Get Feedback** ##
 ***
+
+
+
+
+### Example ###
+
+
+
+
+### Effect ###
+
+**ChatGPT**
+
+
+
+**Copilot**
+
+
+**Gemini**

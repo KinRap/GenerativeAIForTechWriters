@@ -9,3 +9,22 @@ nav_order: 8
 
 ## **Optimize Content** ##
 ***
+
+
+
+
+### Example ###
+
+
+
+
+### Effect ###
+
+**ChatGPT**
+
+
+
+**Copilot**
+
+
+**Gemini**

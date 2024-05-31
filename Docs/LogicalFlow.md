@@ -9,3 +9,21 @@ nav_order: 6
 
 ## **Create Logical Flow** ##
 ***
+
+
+
+### Example ###
+
+
+
+
+### Effect ###
+
+**ChatGPT**
+
+
+
+**Copilot**
+
+
+**Gemini**
