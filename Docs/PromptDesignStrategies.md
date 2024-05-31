@@ -1,5 +1,5 @@
 ---
-title:   Prompt Design Strategies
+title: Prompt Design Strategies
 layout:  default
 nav_order: 6
 has_children: true
