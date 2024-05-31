@@ -45,14 +45,20 @@ The concept of "logical flow" in writing encompasses all elements that facilitat
 </COMMAND>
 ```
 
-
 ### Effect ###
 
 **ChatGPT**
 
+<img src="../Images/EXCHatGPT.png" alt="ChatGPT Logical Flow Response" width="60%">
 
 
 **Copilot**
 
+<img src="../Images/ExCopilot1.png" alt="Copilot Logical Flow Response" width="60%">
+<img src="../Images/ExCopilot2.png" alt="Copilot Logical Flow Response" width="60%">
 
 **Gemini**
+
+<img src="../Images/EXGemini1.png" alt="Gemini Logical Flow Response" width="60%">
+<img src="../Images/EXGemini2.png" alt="Gemini Logical Flow Response" width="60%">
+
