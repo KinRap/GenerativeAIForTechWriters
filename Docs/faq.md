@@ -53,9 +53,18 @@ Use short clear sentences.
 
 **ChatGPT**
 
-
+<img src="../Images/FaqChatGPT.png" alt="ChatGPT FAQ Response" width="60%">
 
 **Copilot**
 
+<img src="../Images/FAQCopilot.png" alt="Copilot FAQ Response" width="60%">
 
 **Gemini**
+
+<img src="../Images/FAQGemini.png" alt="Gemini FAQ Response" width="60%">
+
+As we can see, all three models provided similar responses. In this case, Gemini also managed to generate an answer close to the expected one. However, all three GenAI models did not respond in the expected format. After reminding them again about the output formatting, only ChatGPT gave the correct result.
+
+<img src="../Images/FAQchatGPTMd.png" alt="ChatGPT FAQ Response Markdown" width="60%">
+
+
