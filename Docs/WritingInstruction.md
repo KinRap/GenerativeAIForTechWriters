@@ -16,36 +16,45 @@ Let us start with a simple instruction, for which we wrote a prompt in the previ
 
 ```
 <GOAL_AND_PERSONA> 
-    <PERSONA/AUTHOR> 
-        You are a seasoned technical writer creating documentation.
-    </PERSONA/AUTHOR> 
-    <GOAL>
-        Your main goal is to develop a logical flow for documentation on coal heated iron.
-    </GOAL>
-    <PERSONA/AUDIENCE> 
-        Your audience consists of both technical and non-technical readers.
-    </PERSONA/AUDIENCE> 
+[PERSONA/AUTHOR] 
+You are a technical writer creating instructions.
+[GOAL]
+Your main goal is to provide clear instructions to people on how to open a box using direct commands. 
+[PERSONA/AUDIENCE] 
+Your audience consists of Americans aged 10 to 100 years.
 </GOAL_AND_PERSONA> 
 <INSTRUCTIONS> 
-    To complete the task:
-    1. Write a clear introduction to the documentation on coal heated iron.
-    2. Develop a structured flow starting with foundational aspects and gradually introducing advanced topics.
-    3. Ensure smooth transitions between sections.
-    4. Provide a clear conclusion summarizing the usage of coal heated iron.
-</INSTRUCTIONS> 
+To complete the task:
+1.	Write Introduction for Instruction of Opening the Box.
+2.	Provide step-by-step instructions on How to Open a Box.
+3.	Show How to Do This.
+4.	Provide Information About Utilizing the Box. 
+ </INSTRUCTIONS> 
+<CONSTRAINTS> 
+Don’t use more than two sentences in the introduction. 
+</CONSTRAINTS> 
 <CONTEXT> 
-    Consider the context of coal heated iron, including its applications and technical aspects.
+This is small, light, cardboard box. 
 </CONTEXT> 
 <TONE>
-    Maintain a professional and informative tone throughout the documentation.
+Use professional and understanding tone. 
 </TONE>
 <COMMAND>
-    Develop a logical flow for documentation on coal heated iron that caters to both technical and non-technical readers.
+Write clear instructions to people on how to open a box using direct commands.
 </COMMAND>
+<RESPONSE_FORMAT> 
+Format your response in Markdown.
+</RESPONSE_FORMAT> 
 <EXAMPLES> 
-    Provide examples of structured documentation flows for similar technical topics.
-</EXAMPLES> 
-
+I found six steps instruction of opening the box. 
+<EXAMPLES> 
+<SPECIFICATIONS>
+Write instruction in the direct style using max. one hundred words.
+</SPECIFICATIONS>
+<RECAP> 
+Always format your response in Markdown format.
+</RECAP>
+```
 
 ### Effect ###
 
