@@ -113,3 +113,4 @@ Remember to provide constructive feedback to enhance the clarity and usability o
 <img src="../Images/FeedbackGemini.png" alt="Gemini Response" width="60%">
 
 All GenAI models provided the correct response to the prompt. The review and feedback given by ChatGPT are very precise, addressing each section of the document and even individual sentences with comments like ```(No errors)```. ChatGPT did not make any corrections because it found none were needed, but it did provide suggestions for improving the document.
+Copilot reviewed the entire document and its individual sections, providing feedback based on best practices in technical writing. It suggested possible text changes to improve the document's quality. These changes were not made directly in the text but were provided as revised versions.
