@@ -76,6 +76,7 @@ As a technical writer, the importance of producing high-quality and easily under
 <img src="../Images/OPTChatGpt2.png" alt="ChatGPT Optimization Response part 2" width="60%">
 
 **Copilot**
+
 <img src="../Images/OPTCopilot1.png" alt="Copilot Optimization Response part 1" width="60%">
 <img src="../Images/OPTCopilot2.png" alt="Copilot Optimization Response part 2" width="60%">
 
