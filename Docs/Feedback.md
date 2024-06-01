@@ -111,3 +111,5 @@ Remember to provide constructive feedback to enhance the clarity and usability o
 **Gemini**
 
 <img src="../Images/FeedbackGemini.png" alt="Gemini Response" width="60%">
+
+All GenAI models provided the correct response to the prompt. The review and feedback given by ChatGPT are very precise, addressing each section of the document and even individual sentences with comments like ```(No errors)```. ChatGPT did not make any corrections because it found none were needed, but it did provide suggestions for improving the document.
