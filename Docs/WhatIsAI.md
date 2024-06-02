@@ -65,7 +65,7 @@ Artificial intelligence (AI) empowers machines to learn from experience, adapt t
 ## The Evolution of AI 
 ***
 
-To understand how AI works, we should take a look at the [evolution of artificial intelligence](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-ai). 
+To understand how AI works, we should take a look at the <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-ai" target="_blank">evolution of artificial intelligence</a>. 
 
 ![The Evolution of AI](../Images/AIEvolution.png)
 
