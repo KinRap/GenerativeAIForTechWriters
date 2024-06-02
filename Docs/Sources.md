@@ -85,45 +85,45 @@ nav_order: 8
 76.	<a href="https://machinelearningmastery.com/prompt-engineering-for-effective-interaction-with-chatgpt/" target="_blank">Prompt Engineering for Effective Interaction with ChatGPT</a>
 77.	<a href="https://www.nightfall.ai/ai-security-101/prompt-injection" target="_blank">Prompt Injection</a>
 78.	<a href="https://wordhero.co/blog/pros-and-cons-of-ai-writing-tools" target="_blank">Pros and Cons of AI Writing Tools</a>
-79.	<a href="" target=„_blank”>Review 2024: The Best AI-Powered Writing Tool?</a>https://www.elegantthemes.com/blog/business/writesonic 
-80.	<a href="https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/" target=„_blank”>Securing generative AI: An introduction to the Generative AI Security Scoping Matrix</a>
-81.	<a href="https://www.weforum.org/agenda/2024/04/stanford-university-ai-index-report/" target=„_blank”>Stanford just released its annual AI Index report. Here's what it reveals</a>
-82.	<a href="https://devloper-hs.medium.com/supercharge-your-prompt-with-these-tips-a-prompt-engineering-guide-18713b530412" target=„_blank”>Supercharge your prompt with these tips! — A Prompt Engineering Guide</a>
-83.	<a href="https://leonfurze.com/2024/02/19/teaching-ai-writing-ideas/" target=„_blank”>Teaching AI Writing: Ideas</a>
-84.	<a href="https://www.linkedin.com/pulse/technical-writing-ai-ways-use-assistant-write-content-dauda-lawal/" target=„_blank”>Technical Writing with AI: Ways to Use AI Writing Assistant to Write Technical Content</a>
-85.	<a href="https://medium.com/softserve-technical-communication/technical-writing-complement-or-compete-with-generative-ai-6403ee30c22b" target=„_blank”>Technical Writing: Complement or compete with Generative AI?</a>
-86.	<a href="https://openai.com/policies/" target=„_blank”>Terms & policies</a>
-87.	<a href="https://www.harvardonline.harvard.edu/blog/benefits-limitations-generative-ai" target=„_blank”>The Benefits and Limitations of Generative AI: Harvard Experts Answer Your Questions</a>
-88.	<a href="https://zapier.com/blog/best-ai-productivity-tools" target=„_blank”>The best AI productivity tools in 2024</a>/
-89.	<a href="https://www.linkedin.com/pulse/dark-side-ai-technical-writing-samir-senapati/" target=„_blank”>The Dark Side of AI in Technical Writing</a>
-90.	<a href="https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/" target=„_blank”>The ethics of generative AI: How we can harness this powerful technology</a>
-91.	<a href="https://www.toolify.ai/ai-news/the-impact-of-ai-on-technical-writing-limitations-challenges-and-future-2243809" target=„_blank”>The Impact of AI on Technical Writing: Limitations, Challenges, and Future</a>
-92.	<a href="https://medium.com/@soravideoai2024/the-intersection-of-ai-and-technical-writing-2460df4ec88d" target=„_blank”>The Intersection of AI and Technical Writing</a>
-93.	<a href="https://www.thezenagency.com/latest/the-pros-and-cons-of-using-ai-as-a-writing-tool/" target=„_blank”>The Pros and Cons of Using AI as a Writing Tool</a> 
-94.	<a href="https://medium.com/@chasegison/the-revolution-of-ai-in-technical-writing-and-documentation-4e66ab1dc03a" target=„_blank”>The Revolution of AI in Technical Writing and Documentation</a>
-95.	<a href="https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier" target=„_blank”>The use of generative AI and AI-assisted technologies in writing for Elsevier</a>
-96.	<a href="https://seowind.io/tone-of-voice-examples-ai/" target=„_blank”>Tone of Voice Examples. With AI prompts & Content Sample</a>
-97.	<a href="https://intellipaat.com/blog/top-artificial-intelligence-tools/" target=„_blank”>Top 30 Artificial Intelligence (AI) Tools List</a>
-98.	<a href="https://research.aimultiple.com/ai-challenges/" target=„_blank”>Top 7 AI Challenges & Solutions in 2024</a>
-99.	<a href="https://aipromptsbank.com/best-chatgpt-prompts-for-technical-writing/" target=„_blank”>Top ChatGPT prompts for technical writing</a>
-100.   <a href="https://aipromptsbank.com/best-chatgpt-prompts-for-technical-writing/" target=„_blank”>Top ChatGPT prompts for technical writing</a> 
-101.   <a href="https://martinfowler.com/articles/2023-chatgpt-tech-writing.html" target=„_blank”>Using ChatGPT as a technical writing assistant</a> 
-102.   <a href="https://lsa.umich.edu/sweetland/instructors/guides-to-teaching-writing/genai-in-the-writing-process.html" target=„_blank”>Using Generative AI or Chatbots in the Writing Process</a>
-103.   <a href="https://lsa.umich.edu/sweetland/instructors/guides-to-teaching-writing/genai-in-the-writing-process.html" target=„_blank”>Using Generative AI or Chatbots in the Writing Process</a> 
-104.   <a href="https://www.quora.com/What-are-the-limitations-or-challenges-of-using-AI-in-content-writing" target=„_blank”>What are the limitations or challenges of using AI in content writing?</a>
-105.   <a href="https://www.linkedin.com/advice/0/what-risks-limitations-your-machine-learning-solution" target=„_blank”>What are the risks and limitations of your Machine Learning solution?</a>
-106.   <a href="ttps://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-ai" target=„_blank”>What is AI (artificial intelligence)?</a>h
-107.   <a href="https://www.oracle.com/sa/artificial-intelligence/ai-model-training/" target=„_blank”>What Is AI Model Training & Why Is It Important?</a>
-108.   <a href="https://servicecenter.fsu.edu/s/article/What-is-AI-prompting" target=„_blank”>What is AI prompting?</a>
-109.   <a href="https://www.pcmag.com/explainers/what-is-microsoft-copilot" target=„_blank”>What Is Copilot? Microsoft's AI Assistant Explained</a>
-110.   <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai" target=„_blank”>What is generative AI?</a>
-111.   <a href="https://www.nvidia.com/en-us/glossary/generative-ai/" target=„_blank”>What is Generative AI?</a>
-112.   <a href="https://zapier.com/blog/google-gemini/?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_nb_desktop_blog_prospecting_developing1_developing2-ads&utm_term=&utm_content=1011539&utm_ads_campaign_id=19622168382&utm_ads_adset_id=157760468828&utm_ads_ad_id=659058345731&gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3woeKa_7qD2P7Q2yZz_UZ-BDBLn_1xKCZjJyebGwo8C-Jbnc16rO5tEaAoggEALw_wcB" target=„_blank”>What is Google Gemini?</a>
-113.   <a href="https://aws.amazon.com/what-is/prompt-engineering/" target=„_blank”>What is prompt engineering?</a>
-114.   <a href="https://www.zdnet.com/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/" target=„_blank”>Who owns the code? If ChatGPT's AI helps write your app, does it still belong to you?</a>
-115.   <a href="https://ai.google.dev/gemini-api/docs/prompting-intro?hl=pl" target=„_blank”>Wprowadzenie do projektowania promptów</a>
-116.   <a href="https://www.scripted.com/writesonic-review-features-pricing-benefits" target=„_blank”>Writesonic Review: Features, Pricing, Benefits, and More</a> 
-117.   <a href="https://clickup.com/blog/writesonic-vs-chatgpt/" target=„_blank”>Writesonic vs. ChatGPT: Which AI Writing Tool Is Best?</a>
-118.   <a href="https://writesonic.com/" target=„_blank”>Writesonic</a>
-119.   <a href="https://nano.komputronik.pl/n/wyszukiwarka-google-ai-overviews-gemini/" target=„_blank”>Wyszukiwarka Google przejdzie rewolucję. Co to jest AI Overviews?</a>
+79.	<a href="https://www.elegantthemes.com/blog/business/writesonic" target="_blank">Review 2024: The Best AI-Powered Writing Tool?</a> 
+80.	<a href="https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/" target="_blank">Securing generative AI: An introduction to the Generative AI Security Scoping Matrix</a>
+81.	<a href="https://www.weforum.org/agenda/2024/04/stanford-university-ai-index-report/" target="_blank">Stanford just released its annual AI Index report. Here's what it reveals</a>
+82.	<a href="https://devloper-hs.medium.com/supercharge-your-prompt-with-these-tips-a-prompt-engineering-guide-18713b530412" target="_blank">Supercharge your prompt with these tips! — A Prompt Engineering Guide</a>
+83.	<a href="https://leonfurze.com/2024/02/19/teaching-ai-writing-ideas/" target="_blank">Teaching AI Writing: Ideas</a>
+84.	<a href="https://www.linkedin.com/pulse/technical-writing-ai-ways-use-assistant-write-content-dauda-lawal/" target="_blank">Technical Writing with AI: Ways to Use AI Writing Assistant to Write Technical Content</a>
+85.	<a href="https://medium.com/softserve-technical-communication/technical-writing-complement-or-compete-with-generative-ai-6403ee30c22b" target="_blank">Technical Writing: Complement or compete with Generative AI?</a>
+86.	<a href="https://openai.com/policies/" target="_blank">Terms & policies</a>
+87.	<a href="https://www.harvardonline.harvard.edu/blog/benefits-limitations-generative-ai" target="_blank">The Benefits and Limitations of Generative AI: Harvard Experts Answer Your Questions</a>
+88.	<a href="https://zapier.com/blog/best-ai-productivity-tools" target="_blank">The best AI productivity tools in 2024</a>/
+89.	<a href="https://www.linkedin.com/pulse/dark-side-ai-technical-writing-samir-senapati/" target="_blank">The Dark Side of AI in Technical Writing</a>
+90.	<a href="https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/" target="_blank">The ethics of generative AI: How we can harness this powerful technology</a>
+91.	<a href="https://www.toolify.ai/ai-news/the-impact-of-ai-on-technical-writing-limitations-challenges-and-future-2243809" target="_blank">The Impact of AI on Technical Writing: Limitations, Challenges, and Future</a>
+92.	<a href="https://medium.com/@soravideoai2024/the-intersection-of-ai-and-technical-writing-2460df4ec88d" target="_blank">The Intersection of AI and Technical Writing</a>
+93.	<a href="https://www.thezenagency.com/latest/the-pros-and-cons-of-using-ai-as-a-writing-tool/" target="_blank">The Pros and Cons of Using AI as a Writing Tool</a> 
+94.	<a href="https://medium.com/@chasegison/the-revolution-of-ai-in-technical-writing-and-documentation-4e66ab1dc03a" target="_blank">The Revolution of AI in Technical Writing and Documentation</a>
+95.	<a href="https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier" target="_blank">The use of generative AI and AI-assisted technologies in writing for Elsevier</a>
+96.	<a href="https://seowind.io/tone-of-voice-examples-ai/" target="_blank">Tone of Voice Examples. With AI prompts & Content Sample</a>
+97.	<a href="https://intellipaat.com/blog/top-artificial-intelligence-tools/" target="_blank">Top 30 Artificial Intelligence (AI) Tools List</a>
+98.	<a href="https://research.aimultiple.com/ai-challenges/" target="_blank">Top 7 AI Challenges & Solutions in 2024</a>
+99.	<a href="https://aipromptsbank.com/best-chatgpt-prompts-for-technical-writing/" target="_blank">Top ChatGPT prompts for technical writing</a>
+100.   <a href="https://aipromptsbank.com/best-chatgpt-prompts-for-technical-writing/" target="_blank">Top ChatGPT prompts for technical writing</a> 
+101.   <a href="https://martinfowler.com/articles/2023-chatgpt-tech-writing.html" target="_blank">Using ChatGPT as a technical writing assistant</a> 
+102.   <a href="https://lsa.umich.edu/sweetland/instructors/guides-to-teaching-writing/genai-in-the-writing-process.html" target="_blank">Using Generative AI or Chatbots in the Writing Process</a>
+103.   <a href="https://lsa.umich.edu/sweetland/instructors/guides-to-teaching-writing/genai-in-the-writing-process.html" target="_blank">Using Generative AI or Chatbots in the Writing Process</a> 
+104.   <a href="https://www.quora.com/What-are-the-limitations-or-challenges-of-using-AI-in-content-writing" target="_blank">What are the limitations or challenges of using AI in content writing?</a>
+105.   <a href="https://www.linkedin.com/advice/0/what-risks-limitations-your-machine-learning-solution" target="_blank">What are the risks and limitations of your Machine Learning solution?</a>
+106.   <a href="ttps://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-ai" target="_blank">What is AI (artificial intelligence)?</a>h
+107.   <a href="https://www.oracle.com/sa/artificial-intelligence/ai-model-training/" target="_blank">What Is AI Model Training & Why Is It Important?</a>
+108.   <a href="https://servicecenter.fsu.edu/s/article/What-is-AI-prompting" target="_blank">What is AI prompting?</a>
+109.   <a href="https://www.pcmag.com/explainers/what-is-microsoft-copilot" target="_blank">What Is Copilot? Microsoft's AI Assistant Explained</a>
+110.   <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai" target="_blank">What is generative AI?</a>
+111.   <a href="https://www.nvidia.com/en-us/glossary/generative-ai/" target="_blank">What is Generative AI?</a>
+112.   <a href="https://zapier.com/blog/google-gemini/?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_nb_desktop_blog_prospecting_developing1_developing2-ads&utm_term=&utm_content=1011539&utm_ads_campaign_id=19622168382&utm_ads_adset_id=157760468828&utm_ads_ad_id=659058345731&gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3woeKa_7qD2P7Q2yZz_UZ-BDBLn_1xKCZjJyebGwo8C-Jbnc16rO5tEaAoggEALw_wcB" target="_blank">What is Google Gemini?</a>
+113.   <a href="https://aws.amazon.com/what-is/prompt-engineering/" target="_blank">What is prompt engineering?</a>
+114.   <a href="https://www.zdnet.com/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/" target="_blank">Who owns the code? If ChatGPT's AI helps write your app, does it still belong to you?</a>
+115.   <a href="https://ai.google.dev/gemini-api/docs/prompting-intro?hl=pl" target="_blank">Wprowadzenie do projektowania promptów</a>
+116.   <a href="https://www.scripted.com/writesonic-review-features-pricing-benefits" target="_blank">Writesonic Review: Features, Pricing, Benefits, and More</a> 
+117.   <a href="https://clickup.com/blog/writesonic-vs-chatgpt/" target="_blank">Writesonic vs. ChatGPT: Which AI Writing Tool Is Best?</a>
+118.   <a href="https://writesonic.com/" target="_blank">Writesonic</a>
+119.   <a href="https://nano.komputronik.pl/n/wyszukiwarka-google-ai-overviews-gemini/" target="_blank">Wyszukiwarka Google przejdzie rewolucję. Co to jest AI Overviews?</a>
 120.   Rewired: The McKinsey Guide to Outcompeting in the Age of Digital and AI, E.Lamarre, K. Smaje, R. Zemmel, Wiley 2023
