@@ -16,7 +16,7 @@ Consider a child learning to identify various animals. By presenting the child w
 GenAI enables users to produce a variety of content types, including text, images, videos, sounds, and code, by entering different prompts. To generate such content, GenAI systems require substantial knowledge. Like a child needing numerous examples to recognize different animals, GenAi learns and is trained on documents and artifacts that already exist. For example, the OpenAI GPT-3 model has been trained with about 45 TB of text data from multiple sources - that’s about one million feet of bookshelf space
 
 
-[Datasets used to train the model the OpenAI GPT-3 model](https://www.springboard.com/blog/data-science/machine-learning-gpt-3-open-ai/):
+<a href="https://www.springboard.com/blog/data-science/machine-learning-gpt-3-open-ai/" target="_blank">Datasets used to train the model the OpenAI GPT-3 model</a>:
 
 | Dataset      | Quantity (tokens) | Weight in training mix | Epochs elapsed when training for 300B tokens|
 | -------------| ----------------- | ---------------------- | ------------------------------------------- |
