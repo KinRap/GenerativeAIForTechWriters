@@ -19,7 +19,7 @@ A prompt encompasses the following elements:
 -	**Output Indicator**: Specification of the desired type or format of the output.
 
 A prompt can contain more elements. Some of them may be crucial for achieving the desired response.
-Essential and optional component of a [prompt](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies):
+Essential and optional component of a <a href="https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies" target="_blank">prompt</a>:
 
 | Component| Description | Example |
 | -------- | ----------- | ------- |
