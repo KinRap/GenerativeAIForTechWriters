@@ -98,7 +98,7 @@ After successfully navigating through the initial training phase, the model cons
 ### Testing ### 
 Following validation using carefully selected and tailored datasets, the model can be put to the test with real-time data to assess its performance and accuracy. This stage involves utilizing datasets from real-world contexts, which represents a crucial step akin to removing training wheels, allowing the model to operate independently. If the model delivers accurate—and, notably, expected—results with the test data, it is deemed ready for deployment. However, should any deficiencies arise in the model's performance, the training process must be revisited until the model meets or surpasses performance benchmarks.
 
-To learn more about LLM training visit [LLM_training](https://milenajoanna.github.io/FinalProjectVistulaLLM-sForBeginners/docs/LLM_training.html).
+To learn more about LLM training visit <a href="https://milenajoanna.github.io/FinalProjectVistulaLLM-sForBeginners/docs/LLM_training.html" target="_blank">LLM_training</a>.
 
 ---
 
