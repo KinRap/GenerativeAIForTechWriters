@@ -15,7 +15,7 @@ nav_order: 3
 ## Intelligence
 ***
 
-Before diving into the definition of artificial intelligence we need to understand the meaning of Intelligence. 
+Before diving into the definition of artificial intelligence, we need to understand the meaning of Intelligence. 
 
 > **Intelligence** refers to the capacity to learn and apply knowledge. Knowledge, in turn, is the information obtained from experience. 
 
