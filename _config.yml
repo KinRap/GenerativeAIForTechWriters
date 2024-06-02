@@ -12,8 +12,7 @@ aux_links:
   Template Repository: https://github.com/KinRap/GenerativeAIForTechWriters
 
 
-
-
+color_scheme: KR
 #Favicon
 favicon_ico: "/Images/Favicon.png"
 
