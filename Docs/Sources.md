@@ -74,7 +74,7 @@ nav_order: 8
 65.	<a href="https://www.jasper.ai/" target="_blank">Jasper.ai</a>
 66.	<a href="https://soco.com.au/know-it-all-chatgpt-and-its-key-capabilities-that-will-surprise-your-team/" target="_blank">Know it all: ChatGPT and its key capabilities</a>
 67.	<a href="https://soco.com.au/know-it-all-chatgpt-and-its-key-capabilities-that-will-surprise-your-team/" target="_blank">Know it all: ChatGPT and its key capabilities</a>
-68.	<a href="https://www.dxheroes.io/blog/lets-talk-about-ai-2-the-top-5-ai-tools-for-technical-writers" target=„_blank”>Let's talk about AI: #2 The Top 5 AI Tools for Technical Writers</a> 
+68.	<a href="https://www.dxheroes.io/blog/lets-talk-about-ai-2-the-top-5-ai-tools-for-technical-writers" target="_blank">Let's talk about AI: #2 The Top 5 AI Tools for Technical Writers</a> 
 69.	<a href="https://milenajoanna.github.io/FinalProjectVistulaLLM-sForBeginners/" target="_blank">LLM-s For Beginners</a> 
 70.	<a href="https://hbr.org/2023/06/managing-the-risks-of-generative-ai" target="_blank">Managing the Risks of Generative AI</a>
 71.	<a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank">MIcrisift Copilot</a> 
