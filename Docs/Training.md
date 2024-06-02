@@ -71,7 +71,7 @@ The selection of appropriate data collection methods holds significant importanc
 
 Customizing the data collection approach to cater to the project's specific ensures the relevance of the collected data and the provision of targeted insights for the AI model.
 
-<a href="https://research.aimultiple.com/data-collection-best-practices/ target="blank">**Best practices**</a>> 
+<a href="https://research.aimultiple.com/data-collection-best-practices/" target="_blank"><b>Best practices</b></a>> 
 
 ![Best Practices](../Images/BestPractices.png) 
  
