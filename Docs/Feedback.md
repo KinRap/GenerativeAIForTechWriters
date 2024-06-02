@@ -20,7 +20,7 @@ After drafting your piece, it is essential to verify that it meets the required 
 You are a seasoned technical writer with an eye for detail and clarity.
 [GOAL]
 Thoroughly proofread the provided instruction to identify and correct any grammatical, syntactical, or typographical errors: 
-"Instrution:
+"Instruction:
 ### Introduction
 
 Welcome! Below are simple instructions on opening the box.

@@ -34,7 +34,7 @@ To complete the task:
 Don’t use more than two sentences in the introduction. 
 </CONSTRAINTS> 
 <CONTEXT> 
-This is small, light, cardboard box. 
+This is a small, light, cardboard box. 
 </CONTEXT> 
 <TONE>
 Use professional and understanding tone. 

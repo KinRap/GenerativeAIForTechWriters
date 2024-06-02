@@ -29,8 +29,8 @@ Essential and optional component of a <a href="https://cloud.google.com/vertex-a
 | Persona/Author | Who/what the model is acting as. | You are a technical writer who is writing Instruction of Opening the Box.|
 | Persona/ Audience | Fictional character or user archetype created to represent a specific target audience or demographic. Personas provide context for the language model by specifying the characteristics, preferences, and needs of the intended user | Your audience consists of Americans aged 10 to 100 years. |
 | Constraints | They refer to the limitations placed on the model regarding the generation of a response, outlining both permissible and impermissible actions. | Do not use more than two sentences in the introduction. |
-| Tone | The tone of the response. | Use professional and tone.|
-| Context | Any information necessary for the model to reference to complete the task. | This is small, light, cardboard box. |
+| Tone | The tone of the response. | Use professional tone.|
+| Context | Any information necessary for the model to reference to complete the task. | This is s small, light, cardboard box. |
 | Command | You can instruct GenAI what to do: summarize, write, classify, translate, etc. | Write clear instructions to people on how to open a box using direct commands. |
 | Examples | Examples of how the response should appear for a given prompt. | I found six steps instruction. |
 | Reasoning steps | Instruct the model to explain its reasoning. | Explain your reasoning step-by-step why you put these steps in instruction. |

@@ -87,6 +87,6 @@ As a technical writer, the importance of producing high-quality and easily under
 
 ChatGPT made changes to the text provided at the end, along with an explanation of which optimization strategy they belong to.
 
-Copilot optimize the provided content to improve its visibility on search engines while maintaining readability and quality for readers. Pokazał możliwe ulepszenia. Na końcu wskazał optimization practices, po wprowadzeniu których, dokument will be more discoverable by users. 
+Copilot optimized the provided content to improve its visibility on search engines while maintaining readability and quality for readers. He showed possible improvements. In the end, he pointed out optimization practices, after the implementation of which the document will be more discoverable by users.
 
 Gemini made changes to the document for optimization purposes, bullet-pointing them at the end of the response, where he also explained their significance. He also added a Meta Description and Key Words. Additionally, he pointed out additional actions (Additional SEO Notes) that could further enhance the quality of this documentation in terms of optimization. It seems that Google Gemini has done an excellent job in this regard.
