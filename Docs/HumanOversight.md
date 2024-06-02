@@ -9,7 +9,7 @@ nav_order: 8
 ***
 
 It is not possible to create automated technical content with GenAI and immediately publish it as a finished product without human review. You cannot simply delegate the task of content creation to machines without the involvement of human experts.
-If the company policy allows, technical writers can use GenAI as a virtual assistant. GenAI offers many [possibilities](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Capabilities.html), but it also carries [risks and limitations](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Risk&Limitations.html) that require human intervention.
+If the company policy allows, technical writers can use GenAI as a virtual assistant. GenAI offers many <a href="https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Capabilities.html" target="_blank">possibilities</a>, but it also carries <a href="https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Risk&Limitations.html" targer="_blank">risks and limitations</a> that require human intervention.
 
 GenAI can analyze patterns, but understanding nuances and strategic alignment are best handled by humans. Domain-specific terminology requires human expertise, as do accuracy and relevance of the content.
 
