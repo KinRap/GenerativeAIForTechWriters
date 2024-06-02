@@ -59,32 +59,32 @@ nav_order: 8
 50.	<a href="https://www.nature.com/articles/d41586-024-01543-1" target="_blank">Guidelines for academics aim to lessen ethical pitfalls in generative-AI use</a>
 51.	<a href="https://medium.com/@zahwahjameel26/how-ai-is-rewriting-the-rulebook-for-technical-writers-f308d843d393" target="_blank">How AI is Rewriting the Rulebook for Technical Writers?</a>
 52.	<a href="https://www.linkedin.com/advice/0/how-can-you-write-content-optimized-artificial-hk2of" target="_blank">How can you write content optimized for artificial</a> 
-53.	<a href="https://essentialdata.com/how-does-ai-impact-technical-writing/" target=„_blank”>How Does AI Impact Technical Writing?</a>
-54.	<a href="https://document360.com/blog/technical-writing-with-genai/" target=„_blank”>How GenAI Will Enhance a Technical Writer’s Capabilities</a>
-55.	<a href="https://document360.com/blog/prompt-engineering-for-technical-writers/" target=„_blank”>How Technical Writers Can Master Prompt Engineering</a>
-56.	<a href="https://www.linkedin.com/pulse/how-technical-writers-can-master-prompt-engineering-sheebha-austin/" target=„_blank”>How Technical Writers Can Master Prompt Engineering</a> 
-57.	<a href="https://document360.com/blog/chatgpt-for-technical-writing/" target=„_blank”>How Technical Writers Can Utilize ChatGPT?</a> 
-58.	<a href="https://www.techtarget.com/searchSecurity/tip/How-to-craft-a-generative-AI-security-policy-that-works" target=„_blank”>How to craft a generative AI security policy that works</a> 
-59.	<a href="https://www.bloomreach.com/en/blog/2023/how-to-train-ai-for-your-business-best-practices" target=„_blank”>How To Train AI for Business: Best Practices and 3 Key Steps</a>
-60.	<a href="https://3cloudsolutions.com/resources/how-to-train-generative-ai-using-company-data/" target=„_blank”>How to train generative ai using your company’s data</a>
-61.	<a href="https://www.ibm.com/docs/en/watsonx/saa" target=„_blank”>IBM watsonx as a Services</a>
-62.	<a href="https://blog.google/technology/ai/google-gemini-ai/#introducing-gemini" target=„_blank”>Introducing Gemini: our largest and most capable AI model</a>
-63.	<a href="https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design" target=„_blank”>Introduction to prompting</a>
-64.	<a href="https://www.lakera.ai/blog/training-data-poisoning" target=„_blank”>Introduction to Training Data Poisoning: A Beginner’s Guide</a>
-65.	<a href="https://www.jasper.ai/" target=„_blank”>Jasper.ai</a>
-66.	<a href="https://soco.com.au/know-it-all-chatgpt-and-its-key-capabilities-that-will-surprise-your-team/" target=„_blank”>Know it all: ChatGPT and its key capabilities</a>
-67.	<a href="https://soco.com.au/know-it-all-chatgpt-and-its-key-capabilities-that-will-surprise-your-team/" target=„_blank”>Know it all: ChatGPT and its key capabilities</a>
+53.	<a href="https://essentialdata.com/how-does-ai-impact-technical-writing/" target="_blank">How Does AI Impact Technical Writing?</a>
+54.	<a href="https://document360.com/blog/technical-writing-with-genai/" target="_blank">How GenAI Will Enhance a Technical Writer’s Capabilities</a>
+55.	<a href="https://document360.com/blog/prompt-engineering-for-technical-writers/" target="_blank">How Technical Writers Can Master Prompt Engineering</a>
+56.	<a href="https://www.linkedin.com/pulse/how-technical-writers-can-master-prompt-engineering-sheebha-austin/" target="_blank">How Technical Writers Can Master Prompt Engineering</a> 
+57.	<a href="https://document360.com/blog/chatgpt-for-technical-writing/" target="_blank">How Technical Writers Can Utilize ChatGPT?</a> 
+58.	<a href="https://www.techtarget.com/searchSecurity/tip/How-to-craft-a-generative-AI-security-policy-that-works" target="_blank">How to craft a generative AI security policy that works</a> 
+59.	<a href="https://www.bloomreach.com/en/blog/2023/how-to-train-ai-for-your-business-best-practices" target="_blank">How To Train AI for Business: Best Practices and 3 Key Steps</a>
+60.	<a href="https://3cloudsolutions.com/resources/how-to-train-generative-ai-using-company-data/" target="_blank">How to train generative ai using your company’s data</a>
+61.	<a href="https://www.ibm.com/docs/en/watsonx/saa" target="_blank">IBM watsonx as a Services</a>
+62.	<a href="https://blog.google/technology/ai/google-gemini-ai/#introducing-gemini" target="_blank">Introducing Gemini: our largest and most capable AI model</a>
+63.	<a href="https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design" target="_blank">Introduction to prompting</a>
+64.	<a href="https://www.lakera.ai/blog/training-data-poisoning" target="_blank">Introduction to Training Data Poisoning: A Beginner’s Guide</a>
+65.	<a href="https://www.jasper.ai/" target="_blank/;>Jasper.ai</a>
+66.	<a href="https://soco.com.au/know-it-all-chatgpt-and-its-key-capabilities-that-will-surprise-your-team/" target="_blank">Know it all: ChatGPT and its key capabilities</a>
+67.	<a href="https://soco.com.au/know-it-all-chatgpt-and-its-key-capabilities-that-will-surprise-your-team/" target="_blank">Know it all: ChatGPT and its key capabilities</a>
 68.	<a href="https://www.dxheroes.io/blog/lets-talk-about-ai-2-the-top-5-ai-tools-for-technical-writers" target=„_blank”>Let's talk about AI: #2 The Top 5 AI Tools for Technical Writers</a> 
-69.	<a href="https://milenajoanna.github.io/FinalProjectVistulaLLM-sForBeginners/" target=„_blank”>LLM-s For Beginners</a> 
-70.	<a href="https://hbr.org/2023/06/managing-the-risks-of-generative-ai" target=„_blank”>Managing the Risks of Generative AI</a>
-71.	<a href="https://www.microsoft.com/en-us/microsoft-copilot" target=„_blank”>MIcrisift Copilot</a> 
-72.	<a href="https://www.reddit.com/r/ChatGPTPromptGenius/comments/16w58cq/op_prompts_for_technical_writers/?rdt=39468" target=„_blank”>OP prompts for technical writers</a>
-73.	<a href="https://www.springboard.com/blog/data-science/machine-learning-gpt-3-open-ai/" target=„_blank”>OpenAI GPT-3: Everything You Need to Know</a>
-74.	<a href="https://roadmap.sh/prompt-engineering/prompts/parts-of-a-prompt" target=„_blank”>Parts of a Prompt</a>
-75.	<a href="https://www.ndu.edu/Privacy/PII-Breach-Reporting/" target=„_blank”>PII Breach Reporting</a>
-76.	<a href="https://machinelearningmastery.com/prompt-engineering-for-effective-interaction-with-chatgpt/" target=„_blank”>Prompt Engineering for Effective Interaction with ChatGPT</a>
-77.	<a href="https://www.nightfall.ai/ai-security-101/prompt-injection" target=„_blank”>Prompt Injection</a>
-78.	<a href="https://wordhero.co/blog/pros-and-cons-of-ai-writing-tools" target=„_blank”>Pros and Cons of AI Writing Tools</a>
+69.	<a href="https://milenajoanna.github.io/FinalProjectVistulaLLM-sForBeginners/" target="_blank">LLM-s For Beginners</a> 
+70.	<a href="https://hbr.org/2023/06/managing-the-risks-of-generative-ai" target="_blank">Managing the Risks of Generative AI</a>
+71.	<a href="https://www.microsoft.com/en-us/microsoft-copilot" target="_blank">MIcrisift Copilot</a> 
+72.	<a href="https://www.reddit.com/r/ChatGPTPromptGenius/comments/16w58cq/op_prompts_for_technical_writers/?rdt=39468" target="_blank">OP prompts for technical writers</a>
+73.	<a href="https://www.springboard.com/blog/data-science/machine-learning-gpt-3-open-ai/" target="_blank">OpenAI GPT-3: Everything You Need to Know</a>
+74.	<a href="https://roadmap.sh/prompt-engineering/prompts/parts-of-a-prompt" target="_blank">Parts of a Prompt</a>
+75.	<a href="https://www.ndu.edu/Privacy/PII-Breach-Reporting/" target="_blank">PII Breach Reporting</a>
+76.	<a href="https://machinelearningmastery.com/prompt-engineering-for-effective-interaction-with-chatgpt/" target="_blank">Prompt Engineering for Effective Interaction with ChatGPT</a>
+77.	<a href="https://www.nightfall.ai/ai-security-101/prompt-injection" target="_blank">Prompt Injection</a>
+78.	<a href="https://wordhero.co/blog/pros-and-cons-of-ai-writing-tools" target="_blank">Pros and Cons of AI Writing Tools</a>
 79.	<a href="" target=„_blank”>Review 2024: The Best AI-Powered Writing Tool?</a>https://www.elegantthemes.com/blog/business/writesonic 
 80.	<a href="https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/" target=„_blank”>Securing generative AI: An introduction to the Generative AI Security Scoping Matrix</a>
 81.	<a href="https://www.weforum.org/agenda/2024/04/stanford-university-ai-index-report/" target=„_blank”>Stanford just released its annual AI Index report. Here's what it reveals</a>
