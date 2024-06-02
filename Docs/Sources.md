@@ -20,7 +20,7 @@ nav_order: 8
 11.	<a href="https://metaprompting.de/en/ai/will-ai-replace-technical-writers/" target="_blank">Ai vs technical writers: will artificial intelligence replace human expertise in technical writing?</a>
 12.	<a href="https://aicontentfy.com/en/blog/ai-writing-vs-traditional-writing-pros-and-cons" target="_blank">AI Writing vs Traditional Writing: Pros and Cons</a>
 13.	<a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/an-executives-guide-to-ai" target="_blank">An executive’s guide to AI</a>
-14.	<a href="https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf" target="_blank”>Artificial Intelligence Index Report 2024</a>
+14.	<a href="https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf" target="_blank">Artificial Intelligence Index Report 2024</a>
 15.	<a href="http://dln.jaipuria.ac.in:8080/jspui/bitstream/123456789/14268/1/MGI-artificial-intelligence-discussion-paper.pdf" target="_blank">ARTIFICIAL INTELLIGENCE THE NEXT DIGITAL FRONTIER?</a>
 16.	<a href="https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/as-gen-ai-advances-regulators-and-risk-functions-rush-to-keep-pace" target="_blank">As gen AI advances, regulators—and risk functions—rush to keep pace</a>
 17.	<a href="https://ucddublin.pressbooks.pub/StudentResourcev1_od/chapter/best-practices-for-prompt-engineering/" target="_blank">Best practices for prompt engineering</a> 
@@ -31,34 +31,34 @@ nav_order: 8
 22.	<a href="https://beingtechnicalwriter.com/chatgt-prompts/"target="_blank">ChatGPT Prompts for Technical Writers - Boost Your Productivity and Creativity</a> 
 23.	<a href="https://clickup.com/templates/ai-prompts/technical-writing?utm_source=google-pmax&utm_medium=cpc&utm_campaign=gpm_cpc_ar_nnc_pro_trial_all-devices_tcpa_lp_x_all-departments_x_pmax&utm_content=&utm_creative=_____&gad_source=1&gclid=Cj0KCQjwmMayBhDuARIsAM9HM8dcV0DujsCtV9kfBCGS-5K9j9JbuO_CboZ5kSRihk3Hxw7kUskxc_4aAuwJEALw_wcB" target="_blank">ChatGPT Prompts For Technical Writing</a> 
 24.	<a href="https://promptadvance.club/chatgpt-prompts/writing/technical-writing" target="_blank">ChatGPT Prompts for Technical Writing</a>
-25.	<a href="https://promptadvance.club/blog/chat-gpt-prompts-for-technical-writing" target=„_blank”>ChatGPT's Top Prompts for Technical Writing</a>
-26.	<a href="https://www.sipotra.it/wp-content/uploads/2019/05/Confronting-the-risks-of-artificial-intelligence.pdf" target=„_blank”>Confronting the risks of artificial intelligence</a>
-27.	<a href="https://research.aimultiple.com/data-annotation/" target=„_blank”>Data Annotation in 2024: Why it matters & Top 8 Best Practices</a>
-28.	<a href="https://www.crowdstrike.com/cybersecurity-101/cyberattacks/data-poisoning/" target=„_blank”>DATA POISONING:THE EXPLOITATION OF GENERATIVE AI</a>
-29.	<a href="https://www.scmagazine.com/perspective/data-privacy-and-security-in-genai-enabled-services" target=„_blank”>Data privacy and security in  GenAI-enabled services</a>
-30.	<a href="https://medium.com/@DigitalQuill.ai/deep-inside-to-google-gemini-whats-key-features-and-why-we-use-ai-gpt-a6576b2e5024" target=„_blank”>Deep Inside to Google Gemini : What’s Key Features and Why we Use?</a>
-31.	<a href="https://judy.hashnode.dev/effect-of-ai-on-technical-writing#heading-chatgpt" target=„_blank”>Effect of AI on Technical Writing</a>
-32.	<a href="https://oxoinnovation.com/generative-ai-vs-human-translators/" target=„_blank”>Embracing AI in Localization: Bridging Tech and Human Expertise</a>
-33.	<a href="https://michael-shan.medium.com/embracing-the-future-how-ai-is-revolutionizing-technical-writing-9962104f6674" target=„_blank”>Embracing the Future: How AI is Revolutionizing Technical Writing</a>
-34.	<a href="https://www.icaew.com/technical/technology/artificial-intelligence/generative-ai-guide/risks-and-limitations" target=„_blank”>ENERATIVE AI GUIDE Risks and limitations</a>
-35.	<a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain" target=„_blank”>Exploring opportunities in the generative AI value chain</a>
-36.	<a href="https://skpipblog.pl/pl/fair-use-czyli-kiedy-w-swietle-prawa-amerykanskiego-mozemy-legalnie-korzystac-z-cudzej-tworczosci/" target=„_blank”>FAIR USE, czyli kiedy w świetle prawa amerykańskiego możemy legalnie korzystać z cudzej twórczości?</a>
-37.	<a href="https://link.springer.com/chapter/10.1007/978-3-031-54252-7_5" target=„_blank”>GenAI Data Security</a>
-38.	<a href="https://wrc.charlotte.edu/generative-ai-writing" target=„_blank”>Generative AI & writing</a>/
-39.	<a href="https://www.banyansecurity.io/blog/future-technical-writing-generative-ai/" target=„_blank”>Generative AI and the Future of Technical Writing</a>
-40.	<a href="https://www.slideshare.net/slideshow/generative-ai-for-technical-writer-or-information-developers/267265870" target=„_blank”>Generative AI for Technical Writer or Information Developers</a>
-41.	<a href="https://www.slideshare.net/slideshow/generative-ai-for-technical-writer-or-information-developers/267265870" target=„_blank”>Generative AI for Technical Writer or Information Developers</a>
-42.	<a href="https://www.inma.org/blogs/product-initiative/post.cfm/generative-ai-will-be-a-useful-assistant-in-the-process-of-storytelling" target=„_blank”>Generative AI will be a useful assistant in the process of storytelling</a>
-43.	<a href="https://fact.technology/learn/generative-ai-advantages-limitations-and-challenges/" target=„_blank”>Generative AI: Advantages, Disadvantages, Limitations, and Challenges</a>
-44.	<a href="https://www.ai-scaleup.com/articles/ai-tools/google-gemini-ai/" target=„_blank”>Google Gemini AI: Step-by-Step Guide to 9 Remarkable Features</a>
-45.	<a href="https://gemini.google.com/" target=„_blank”>Google Gemini</a>
-46.	<a href="https://workspace.google.com/" target=„_blank”>Google Workspace</a>
-47.	<a href="https://www.tomsguide.com/ai/chatgpt/gpt-4o-what-features-you-can-use-right-now-and-whats-coming-soon" target=„_blank”>GPT-4o — what features you can use right now and what’s coming soon</a>
-48.	<a href="https://www.linkedin.com/pulse/grammarly-free-vs-premium-2024-which-one-good-you-rahul-vishwakarma-r5ikc/" target=„_blank”>Grammarly Free vs Premium 2024: Which One is Good For You?</a>
-49.	<a href="https://www.grammarly.com/" target=„_blank”>Grammarly</a>
-50.	<a href="https://www.nature.com/articles/d41586-024-01543-1" target=„_blank”>Guidelines for academics aim to lessen ethical pitfalls in generative-AI use</a>
-51.	<a href="https://medium.com/@zahwahjameel26/how-ai-is-rewriting-the-rulebook-for-technical-writers-f308d843d393" target=„_blank”>How AI is Rewriting the Rulebook for Technical Writers?</a>
-52.	<a href="https://www.linkedin.com/advice/0/how-can-you-write-content-optimized-artificial-hk2of" target=„_blank”>How can you write content optimized for artificial</a> 
+25.	<a href="https://promptadvance.club/blog/chat-gpt-prompts-for-technical-writing" target="_blank">ChatGPT's Top Prompts for Technical Writing</a>
+26.	<a href="https://www.sipotra.it/wp-content/uploads/2019/05/Confronting-the-risks-of-artificial-intelligence.pdf" target="_blank">Confronting the risks of artificial intelligence</a>
+27.	<a href="https://research.aimultiple.com/data-annotation/" target="_blank">Data Annotation in 2024: Why it matters & Top 8 Best Practices</a>
+28.	<a href="https://www.crowdstrike.com/cybersecurity-101/cyberattacks/data-poisoning/" target="_blank">DATA POISONING:THE EXPLOITATION OF GENERATIVE AI</a>
+29.	<a href="https://www.scmagazine.com/perspective/data-privacy-and-security-in-genai-enabled-services" target="_blank">Data privacy and security in  GenAI-enabled services</a>
+30.	<a href="https://medium.com/@DigitalQuill.ai/deep-inside-to-google-gemini-whats-key-features-and-why-we-use-ai-gpt-a6576b2e5024" target="_blank">Deep Inside to Google Gemini : What’s Key Features and Why we Use?</a>
+31.	<a href="https://judy.hashnode.dev/effect-of-ai-on-technical-writing#heading-chatgpt" target="_blank">Effect of AI on Technical Writing</a>
+32.	<a href="https://oxoinnovation.com/generative-ai-vs-human-translators/" target="_blank">Embracing AI in Localization: Bridging Tech and Human Expertise</a>
+33.	<a href="https://michael-shan.medium.com/embracing-the-future-how-ai-is-revolutionizing-technical-writing-9962104f6674" target="_blank">Embracing the Future: How AI is Revolutionizing Technical Writing</a>
+34.	<a href="https://www.icaew.com/technical/technology/artificial-intelligence/generative-ai-guide/risks-and-limitations" target="_blank">ENERATIVE AI GUIDE Risks and limitations</a>
+35.	<a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain" target="_blank">Exploring opportunities in the generative AI value chain</a>
+36.	<a href="https://skpipblog.pl/pl/fair-use-czyli-kiedy-w-swietle-prawa-amerykanskiego-mozemy-legalnie-korzystac-z-cudzej-tworczosci/" target="_blank">FAIR USE, czyli kiedy w świetle prawa amerykańskiego możemy legalnie korzystać z cudzej twórczości?</a>
+37.	<a href="https://link.springer.com/chapter/10.1007/978-3-031-54252-7_5" target="_blank">GenAI Data Security</a>
+38.	<a href="https://wrc.charlotte.edu/generative-ai-writing" target="_blank">Generative AI & writing</a>/
+39.	<a href="https://www.banyansecurity.io/blog/future-technical-writing-generative-ai/" target="_blank">Generative AI and the Future of Technical Writing</a>
+40.	<a href="https://www.slideshare.net/slideshow/generative-ai-for-technical-writer-or-information-developers/267265870" target="_blank">Generative AI for Technical Writer or Information Developers</a>
+41.	<a href="https://www.slideshare.net/slideshow/generative-ai-for-technical-writer-or-information-developers/267265870" target="_blank">Generative AI for Technical Writer or Information Developers</a>
+42.	<a href="https://www.inma.org/blogs/product-initiative/post.cfm/generative-ai-will-be-a-useful-assistant-in-the-process-of-storytelling" target="_blank">Generative AI will be a useful assistant in the process of storytelling</a>
+43.	<a href="https://fact.technology/learn/generative-ai-advantages-limitations-and-challenges/" target="_blank">Generative AI: Advantages, Disadvantages, Limitations, and Challenges</a>
+44.	<a href="https://www.ai-scaleup.com/articles/ai-tools/google-gemini-ai/" target="_blank">Google Gemini AI: Step-by-Step Guide to 9 Remarkable Features</a>
+45.	<a href="https://gemini.google.com/" target="_blank">Google Gemini</a>
+46.	<a href="https://workspace.google.com/" target="_blank">Google Workspace</a>
+47.	<a href="https://www.tomsguide.com/ai/chatgpt/gpt-4o-what-features-you-can-use-right-now-and-whats-coming-soon" target="_blank">GPT-4o — what features you can use right now and what’s coming soon</a>
+48.	<a href="https://www.linkedin.com/pulse/grammarly-free-vs-premium-2024-which-one-good-you-rahul-vishwakarma-r5ikc/" target="_blank">Grammarly Free vs Premium 2024: Which One is Good For You?</a>
+49.	<a href="https://www.grammarly.com/" target="_blank">Grammarly</a>
+50.	<a href="https://www.nature.com/articles/d41586-024-01543-1" target="_blank">Guidelines for academics aim to lessen ethical pitfalls in generative-AI use</a>
+51.	<a href="https://medium.com/@zahwahjameel26/how-ai-is-rewriting-the-rulebook-for-technical-writers-f308d843d393" target="_blank">How AI is Rewriting the Rulebook for Technical Writers?</a>
+52.	<a href="https://www.linkedin.com/advice/0/how-can-you-write-content-optimized-artificial-hk2of" target="_blank">How can you write content optimized for artificial</a> 
 53.	<a href="https://essentialdata.com/how-does-ai-impact-technical-writing/" target=„_blank”>How Does AI Impact Technical Writing?</a>
 54.	<a href="https://document360.com/blog/technical-writing-with-genai/" target=„_blank”>How GenAI Will Enhance a Technical Writer’s Capabilities</a>
 55.	<a href="https://document360.com/blog/prompt-engineering-for-technical-writers/" target=„_blank”>How Technical Writers Can Master Prompt Engineering</a>
