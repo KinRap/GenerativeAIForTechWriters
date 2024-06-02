@@ -37,7 +37,7 @@ For developers, Copilot offers code suggestions, autocompletes code, and provide
 -	Use of plugins and custom GPTs.
 
 ### Plan ###
-Microsoft Copilot offers a freemium pricing model, with a free trial and paid subscriptions like [Pro](https://www.microsoft.com/en-us/store/b/copilotpro) and [365](https://www.microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365):
+Microsoft Copilot offers a freemium pricing model, with a free trial and paid subscriptions like <a href="https://www.microsoft.com/en-us/store/b/copilotpro" target="_blank">Pro</a> and <a href="https://www.microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365" target="_blank">365</a>:
 
 ![Microsoft Copilot Pricing](../Images/MicrosoftCopliotPlan.png)
 
