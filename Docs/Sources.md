@@ -19,18 +19,18 @@ nav_order: 8
 10.	<a href="https://www.lakera.ai/blog/risks-of-ai" target="_blank">AI Risks: Exploring the Critical Challenges of Artificial Intelligence</a> 
 11.	<a href="https://metaprompting.de/en/ai/will-ai-replace-technical-writers/" target="_blank">Ai vs technical writers: will artificial intelligence replace human expertise in technical writing?</a>
 12.	<a href="https://aicontentfy.com/en/blog/ai-writing-vs-traditional-writing-pros-and-cons" target="_blank">AI Writing vs Traditional Writing: Pros and Cons</a>
-13.	<a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/an-executives-guide-to-ai„ target="_blank”>An executive’s guide to AI</a>
-14.	<a href="https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf" target=„_blank”>Artificial Intelligence Index Report 2024</a>
-15.	<a href="http://dln.jaipuria.ac.in:8080/jspui/bitstream/123456789/14268/1/MGI-artificial-intelligence-discussion-paper.pdf" target=„_blank”>ARTIFICIAL INTELLIGENCE THE NEXT DIGITAL FRONTIER?</a>
-16.	<a href="https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/as-gen-ai-advances-regulators-and-risk-functions-rush-to-keep-pace" target=„_blank”>As gen AI advances, regulators—and risk functions—rush to keep pace</a>
-17.	<a href="https://ucddublin.pressbooks.pub/StudentResourcev1_od/chapter/best-practices-for-prompt-engineering/" target=„_blank”>Best practices for prompt engineering</a> 
-18.	<a href="https://contentlab.com/can-ai-write-technical-content/" target=„_blank”>Can AI writing be used to create technical content?</a>
-19.	<a href="https://www.linkedin.com/pulse/chatgpt-technical-writing-how-tech-writers-can-leverage-martin-u--6zhbf/" target=„_blank”>ChatGPT For Technical Writing: How Tech Writers Can Leverage On ChatGPT For Improved Productivity</a>
-20.	<a href="https://medium.com/softserve-technical-communication/chatgpt-in-technical-writing-risks-and-dangers-51503964a773" target=„_blank”>ChatGPT in Technical Writing: Risks and dangers</a>
-21.	<a href="https://jenni.ai/chat-gpt/errors-limitations?seg_acam=21034416380&utm_campaign=21034416380&utm_source=x&utm_medium=cpc&utm_content=&utm_term=&ad_id=&gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3wp_uwLUi7fSdSNshrPZpsfOIT5yzk9lUboJTtpd7N_MkkMxfeEhMVgaArnXEALw_wcB" target=„_blank”>ChatGPT Limitations: What You Need to Know Before Diving In</a> 
-22.	<a href="https://beingtechnicalwriter.com/chatgt-prompts/"target=„_blank”>ChatGPT Prompts for Technical Writers - Boost Your Productivity and Creativity</a> 
-23.	<a href="https://clickup.com/templates/ai-prompts/technical-writing?utm_source=google-pmax&utm_medium=cpc&utm_campaign=gpm_cpc_ar_nnc_pro_trial_all-devices_tcpa_lp_x_all-departments_x_pmax&utm_content=&utm_creative=_____&gad_source=1&gclid=Cj0KCQjwmMayBhDuARIsAM9HM8dcV0DujsCtV9kfBCGS-5K9j9JbuO_CboZ5kSRihk3Hxw7kUskxc_4aAuwJEALw_wcB" target=„_blank”>ChatGPT Prompts For Technical Writing</a> 
-24.	<a href="https://promptadvance.club/chatgpt-prompts/writing/technical-writing" target=„_blank”>ChatGPT Prompts for Technical Writing</a>
+13.	<a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/an-executives-guide-to-ai" target="_blank">An executive’s guide to AI</a>
+14.	<a href="https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf" target="_blank”>Artificial Intelligence Index Report 2024</a>
+15.	<a href="http://dln.jaipuria.ac.in:8080/jspui/bitstream/123456789/14268/1/MGI-artificial-intelligence-discussion-paper.pdf" target="_blank">ARTIFICIAL INTELLIGENCE THE NEXT DIGITAL FRONTIER?</a>
+16.	<a href="https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/as-gen-ai-advances-regulators-and-risk-functions-rush-to-keep-pace" target="_blank">As gen AI advances, regulators—and risk functions—rush to keep pace</a>
+17.	<a href="https://ucddublin.pressbooks.pub/StudentResourcev1_od/chapter/best-practices-for-prompt-engineering/" target="_blank">Best practices for prompt engineering</a> 
+18.	<a href="https://contentlab.com/can-ai-write-technical-content/" target="_blank">Can AI writing be used to create technical content?</a>
+19.	<a href="https://www.linkedin.com/pulse/chatgpt-technical-writing-how-tech-writers-can-leverage-martin-u--6zhbf/" target="_blank">ChatGPT For Technical Writing: How Tech Writers Can Leverage On ChatGPT For Improved Productivity</a>
+20.	<a href="https://medium.com/softserve-technical-communication/chatgpt-in-technical-writing-risks-and-dangers-51503964a773" target="_blank">ChatGPT in Technical Writing: Risks and dangers</a>
+21.	<a href="https://jenni.ai/chat-gpt/errors-limitations?seg_acam=21034416380&utm_campaign=21034416380&utm_source=x&utm_medium=cpc&utm_content=&utm_term=&ad_id=&gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3wp_uwLUi7fSdSNshrPZpsfOIT5yzk9lUboJTtpd7N_MkkMxfeEhMVgaArnXEALw_wcB" target="_blank">ChatGPT Limitations: What You Need to Know Before Diving In</a> 
+22.	<a href="https://beingtechnicalwriter.com/chatgt-prompts/"target="_blank">ChatGPT Prompts for Technical Writers - Boost Your Productivity and Creativity</a> 
+23.	<a href="https://clickup.com/templates/ai-prompts/technical-writing?utm_source=google-pmax&utm_medium=cpc&utm_campaign=gpm_cpc_ar_nnc_pro_trial_all-devices_tcpa_lp_x_all-departments_x_pmax&utm_content=&utm_creative=_____&gad_source=1&gclid=Cj0KCQjwmMayBhDuARIsAM9HM8dcV0DujsCtV9kfBCGS-5K9j9JbuO_CboZ5kSRihk3Hxw7kUskxc_4aAuwJEALw_wcB" target="_blank">ChatGPT Prompts For Technical Writing</a> 
+24.	<a href="https://promptadvance.club/chatgpt-prompts/writing/technical-writing" target="_blank">ChatGPT Prompts for Technical Writing</a>
 25.	<a href="https://promptadvance.club/blog/chat-gpt-prompts-for-technical-writing" target=„_blank”>ChatGPT's Top Prompts for Technical Writing</a>
 26.	<a href="https://www.sipotra.it/wp-content/uploads/2019/05/Confronting-the-risks-of-artificial-intelligence.pdf" target=„_blank”>Confronting the risks of artificial intelligence</a>
 27.	<a href="https://research.aimultiple.com/data-annotation/" target=„_blank”>Data Annotation in 2024: Why it matters & Top 8 Best Practices</a>
