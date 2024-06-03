@@ -1,12 +1,12 @@
 ---
-title: Prompt Design and Prompt Engineering
+title: Prompt Design & Prompt Engineering
 layout: default
 parent: Prompt Design Strategies
 nav_order: 2
 ---
 <img src="../Images/7.png" alt="Header Prompt Design Strategies" width="100%">
 
-## **Prompt Design and Prompt Engineering** ##
+## **Prompt Design & Prompt Engineering** ##
 ***
 
 Prompt design involves carefully crafting the input given to a **Language Model (LM)** to elicit a desired response. This requires determining the structure, content, and phrasing of the prompt to optimize the model’s performance and ensure the output meets specific objectives. Effective prompt design necessitates a deep understanding of the model’s capabilities and limitations, as well as the context and purpose of the interaction. By refining prompts, developers and users can enhance the accuracy, relevance, and quality of the model’s responses, improving the overall functionality and user experience of AI applications.
