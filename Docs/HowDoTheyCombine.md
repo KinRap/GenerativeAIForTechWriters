@@ -1,12 +1,12 @@
 ---
-title: How do they combine?
+title: How do They Combine?
 layout: default
 parent: Introduction
 nav_order: 4
 ---
 <img src="../Images/2.png" alt="Header Introduction" width="100%">
 
-# **How do they combine?** #
+# **How do They Combine?** #
 ***
 
 The development of Generative AI in recent years has significantly impacted not only the market, but also the way people work. 

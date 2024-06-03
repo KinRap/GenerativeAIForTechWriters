@@ -1,5 +1,5 @@
 ---
-title: Prompt design and prompt engineering
+title: Prompt Design and Prompt Engineering
 layout: default
 parent: Prompt Design Strategies
 nav_order: 2

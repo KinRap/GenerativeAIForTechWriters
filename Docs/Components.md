@@ -1,12 +1,12 @@
 ---
-title: Components of a prompt 
+title: Components of a Prompt 
 layout: default
 parent: Prompt Design Strategies
 nav_order: 5
 ---
 <img src="../Images/7.png" alt="Header Prompt Design Strategies" width="100%">
 
-## **Components of a prompt** ##
+## **Components of a Prompt** ##
 ***
 
 We already know what prompt design is and what benefits it brings. We have learned the best practices and strategies. However, to create effective prompts, we need to understand what they consist of and how to construct them precisely.
