@@ -56,7 +56,7 @@ Always format your response in Markdown format.
 </RECAP>
 ```
 
-### Effect ###
+### Effects ###
 
 **ChatGpt** 
 

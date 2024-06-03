@@ -9,7 +9,7 @@ nav_order: 4
 ## **Best Strategies** ##
 ***
 
-Designing effective prompts for GenAI is crucial to ensure accurate and meaningful responses. By following best strategies in prompt design, developers can optimize the performance of GenAI models and enhance user experience. 
+Designing effective prompts for GenAI is crucial to ensure accurate and meaningful responses. By following the best strategies in prompt design, developers can optimize the performance of GenAI models and enhance user experience. 
 
 One important tip is to clearly define the objective of the prompt. This involves identifying the specific task or information that the GenAI model should provide. By having a clear objective in mind, developers can create prompts that are focused and concise. This helps to avoid ambiguity and ensures that the GenAI model understands what is being asked of it.
 
