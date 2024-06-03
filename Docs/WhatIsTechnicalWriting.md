@@ -1,5 +1,5 @@
 ---
-title: What is technical writing?
+title: What is Technical Writing?
 layout: default
 parent: Introduction
 nav_order: 2
