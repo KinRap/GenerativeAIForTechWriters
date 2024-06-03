@@ -49,7 +49,7 @@ Use short clear sentences.
 </SPECIFICATIONS>
 ```
 
-### Effect ###
+### Effects ###
 
 **ChatGPT**
 

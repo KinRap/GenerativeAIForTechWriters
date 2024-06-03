@@ -39,7 +39,7 @@ use a formal and informative tone.
 </TONE>
 ```
 
-### Effect ###
+### Effects ###
 
 **ChatGPT**
 

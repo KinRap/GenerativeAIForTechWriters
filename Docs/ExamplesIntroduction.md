@@ -44,7 +44,7 @@ Write clear introduction.
 </SPECIFICATIONS>
 ```
 
-### Effect ###
+### Effects ###
 
 **ChatGPT**
 

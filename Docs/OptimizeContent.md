@@ -68,7 +68,7 @@ As a technical writer, the importance of producing high-quality and easily under
 </RECAP>
 ```
 
-### Effect ###
+### Effects ###
 
 **ChatGPT**
 

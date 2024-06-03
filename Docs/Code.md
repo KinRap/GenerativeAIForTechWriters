@@ -66,7 +66,7 @@ GenAI, depending on the model (as we have already confirmed when attempting to g
 </RECAP>
 ```
 
-### Effect ###
+### Effects ###
 
 **ChatGPT**
 

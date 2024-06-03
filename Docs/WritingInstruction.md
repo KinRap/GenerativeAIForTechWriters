@@ -58,7 +58,7 @@ Always format your response in Markdown format.
 
 ### Effects ###
 
-**ChatGpt** 
+**ChatGPT** 
 
 <img src="../Images/Example1ChatGPT.png" alt="ChatGPT Response" width="60%">
 

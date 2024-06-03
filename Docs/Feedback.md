@@ -96,7 +96,7 @@ Remember to provide constructive feedback to enhance the clarity and usability o
 </RECAP>
 ```
 
-### Effect ###
+### Effects ###
 
 **ChatGPT**
 
