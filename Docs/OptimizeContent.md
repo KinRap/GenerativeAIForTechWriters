@@ -5,7 +5,7 @@ parent: Examples
 grand_parent: Prompt Design Strategies
 nav_order: 8
 ---
-<img src="../Images/7.png" alt="Header Prompt Design Strategies" width="100%">
+<img src="../Images/12.png" alt="Header Examples" width="100%">
 
 ## **Optimize Content** ##
 ***
