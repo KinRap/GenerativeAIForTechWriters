@@ -70,7 +70,7 @@ Always format your response in Markdown format.
 
 <img src="../Images/Example1Gemini.png" alt="Gemini Response" width="60%">
 
-As we can see we don’t have markdown format in output. So, I add second prompt:
+As we can see we don’t have Markdown format in the output. So, I add a second prompt:
 ```
 Output format: Markdown
 ```
@@ -82,11 +82,11 @@ Also, Gemini did not generate accurate output for the prompt. Why? Gemini ignore
 
 <img src="../Images/Example1GeminiChange.png" alt="What to change in code" width="60%">
 
-To five-zstep:
+To five-step:
 
 <img src="../Images/Example1GeminiToChange.png" alt="Changed" width="60%">
 
-Gemini generated correct response:
+Gemini generated the correct response:
 
 <img src="../Images/Example1GeminiOK.png" alt="Gemini output" width="60%">
 

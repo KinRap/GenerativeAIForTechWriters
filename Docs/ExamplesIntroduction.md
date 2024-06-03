@@ -58,5 +58,5 @@ Write clear introduction.
 
 <img src="../Images/Example2Gemini.png" alt="Gemini Introduction - Response" width="60%">
 
-Two first tools managed quite well with this task. Although it seemed quite simple, there may be reservations especially regarding Gemini's response. It completely failed to meet the requirements of technical documentation. On the other hand, Copilot used emoticons, although they should not really appear in technical documentation.
+Two first tools managed quite well with this task. Although it seemed quite simple, there may be reservations, especially regarding Gemini's response. It completely failed to meet the requirements of technical documentation. On the other hand, Copilot used emoticons, although they should not really appear in technical documentation.
 
