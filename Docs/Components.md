@@ -22,7 +22,7 @@ The example of a basic prompt might look like this:
 
 ```
 <INSTRUCTION>
-Find psychological reasons behind gift-giving.
+Find the psychological reasons behind gift-giving.
 </INSTRUCTION>
 <CONTEXT>
 Gift-giving is a common social practice influenced by various psychological factors and cultural traditions.
