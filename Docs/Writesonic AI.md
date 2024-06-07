@@ -38,4 +38,4 @@ Writesonic AI is a powerful tool for anyone involved in content creation, provid
 
 ### Plans ###
 
-Writesonic offers a variety of <a href="https://writesonic.com/pricing" target="_blank">pricing plans</a> tailored to different user requirements.
+Writesonic provides a variety of plans tailored to meet different user needs. You can compare them on the <a href="https://writesonic.com/pricing" target="_blank">Plans & Pricing page</a>.
