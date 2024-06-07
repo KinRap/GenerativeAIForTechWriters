@@ -31,7 +31,7 @@ Gift-giving is a common social practice influenced by various psychological fact
 Consider general psychological perspectives on why people give gifts.
 </INPUT_DATA>
 <OUTPUT_INDICATOR>
-Provide a list of a psychological reasons behind gift-giving.
+Provide a list.
 </OUTPUT_INDICATOR>
 ```
 
