@@ -126,4 +126,5 @@ nav_order: 8
 115.	<a href="https://clickup.com/blog/writesonic-vs-chatgpt/" target="_blank">Writesonic vs. ChatGPT: Which AI Writing Tool Is Best?</a>
 116.	<a href="https://writesonic.com/" target="_blank">Writesonic</a>
 117.	<a href="https://nano.komputronik.pl/n/wyszukiwarka-google-ai-overviews-gemini/" target="_blank">Wyszukiwarka Google przejdzie rewolucję. Co to jest AI Overviews?</a>
-118.	Rewired: The McKinsey Guide to Outcompeting in the Age of Digital and AI, E.Lamarre, K. Smaje, R. Zemmel, Wiley 2023
+118.    <a href="https://www.digitalocean.com/resources/article/ai-and-privacy" target="_blank">AI and Privacy: Safeguarding Data in the Age of Artificial Intelligence</a> 
+119.	Rewired: The McKinsey Guide to Outcompeting in the Age of Digital and AI, E.Lamarre, K. Smaje, R. Zemmel, Wiley 2023
