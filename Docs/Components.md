@@ -18,6 +18,23 @@ A prompt encompasses the following elements:
 -	**Input Data**: The input or question for which a response is sought.
 -	**Output Indicator**: Specification of the desired type or format of the output.
 
+The example of a basic prompt might look like this:
+
+```
+<INSTRUCTION>
+Find psychological reasons behind gift-giving.
+</INSTRUCTION>
+<CONTEXT>
+Gift-giving is a common social practice influenced by various psychological factors and cultural traditions.
+</CONTEXT>
+<INPUT_DATA>
+Consider general psychological perspectives on why people give gifts.
+</INPUT_DATA>
+<OUTPUT_INDICATOR>
+Provide a list of a psychological reasons behind gift-giving.
+</OUTPUT_INDICATOR>
+```
+
 A prompt can contain more elements. Some of them may be crucial for achieving the desired response.
 Essential and optional components of a <a href="https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies" target="_blank">prompt</a>:
 
