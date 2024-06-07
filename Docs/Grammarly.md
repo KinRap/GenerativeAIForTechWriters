@@ -36,4 +36,4 @@ Grammarly was founded in 2009 by Alex Shevchenko, Max Lytvyn, and Dmytro Lider. 
 
 ### Plans ###
 
-Grammarly offers a selection of plans designed to accommodate different user preferences. You can review and compare them on the website<a href="https://www.grammarly.com/plans" target="_blank">*Great Writing Starts With a Plan*</a>.
+Grammarly offers a selection of plans designed to accommodate different user preferences. You can review and compare them on the website <a href="https://www.grammarly.com/plans" target="_blank">*Great Writing Starts With a Plan*</a>.
