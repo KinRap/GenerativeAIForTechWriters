@@ -44,17 +44,8 @@ Regarding personal use, work assignments, and other requirements, the convention
 
 ### Plans 
 
-ChatGPT offers a variety of <a href="https://openai.com/chatgpt/pricing/" target="_blank">plans</a> to suit different user requirements:
+ChatGPT offers a variety of plans to suit different user requirements, which can be reviewed on <a href="https://openai.com/chatgpt/pricing/" target="_blank">the ChatGPT Pricing page</a>.
 
-![ChatGPT Plans](../Images/ChatGPTPlan.png)
 
-1.	**Free Plan**:
--	Provides fundamental writing assistance, access to ChatGPT-3.5 and limited access to ChatGPT-4o, and some additional functionalities. Recommended for those needing assistance with basic writing tasks.
-2.	**Plus Plan**:
--	Available at $20 per month. Offers more specific benefits, including early access to new features, broader access to GPT models, advanced data analysis, and DALL-E image generation. Recommended for users seeking an enhanced writing experience.
-3.	**Team Plan**:
-- Priced at $25 per person per month. Applies to individuals with monthly wages of up to $300. Includes all features available in the Plus plan, along with increased usage allowances, collaborative workspace, and administrative functionalities. Designed to enhance professionalism and communication effectiveness for teams and organizations.
-4.	**Enterprise**:
--	This plan provides unlimited, high-speed access to GPT-4, GPT-4o, and tools like DALL-E, browsing, data analysis, admin controls, domain verification, and analytics. In this plan, enterprise data will be excluded from training by default, and custom data retention windows are available
 
 
