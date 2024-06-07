@@ -1,12 +1,13 @@
-1.	---
-2.	title:  Sources
-3.	layout:  default
-4.	nav_order: 8
-5.	---
-6.	<img src="../Images/9.png" alt="Header Sources" width="100%">
+---
+title:  Sources
+layout:  default
+nav_order: 8
+---
+<img src="../Images/9.png" alt="Header Sources" width="100%">
 
-7.	# **Sources** #
-8.	***
+# **Sources** #
+	***
+
 
 1.	<a href="https://getgenie.ai/challenges-and-limitations-of-ai-content-writing-tools/#" target="_blank">10 Challenges and Limitations of Ai Content Writing Tools</a>
 2.	<a href="https://www.forbes.com/sites/theyec/2023/05/30/14-benefits-and-drawbacks-of-using-ai-tools-to-write-business-content/?sh=2ff79c147177" target="_blank">14 Benefits And Drawbacks Of Using AI Tools To Write Business Content</a> 
