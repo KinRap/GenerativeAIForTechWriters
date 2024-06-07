@@ -9,4 +9,4 @@ has_children: true
 # **Introduction**
 ***
 
-Before delving into the possibilities and challenges presented by Generative AI for technical writers, let's revisit the essence of technical writing. Let's explore the underlying principles of artificial intelligence and GenAI, and ascertain their relevance to each other.
+Before delving into the possibilities and challenges presented by Generative AI for technical writers, let's revisit the essence of technical writing, the principles of generative AI, and ascertain their relevance to each other.
