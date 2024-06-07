@@ -56,7 +56,6 @@ Explore the impact of Generative AI on technical writing. Discover its potential
       - [Get Feedback](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Feedback.html)
       - [Optimize Content](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/OptimizeContent.html)
       - [Code Generation](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Code.html)
-   - [Conclusion](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/ConclusionPrompt.html)
 7. [Conclusion](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Conclusion.html)
    - [To use or not to use](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/ToUseOrNotToUse.html)
    - [Why doesn’t AI pose a risk to technical writers?](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/WhyDoesn%E2%80%99tAIPoseARiskToTechnicalWriters.html)
