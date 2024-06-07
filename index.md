@@ -20,7 +20,6 @@ Explore the impact of Generative AI on technical writing. Discover its potential
     - [What is AI](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/WhatIsAI.html)
     - [How do they combine?](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/HowDoTheyCombine.html)
 3. [Capabilities](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Capabilities.html)
-   - [Training](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Training.html)
    - [Generating ideas](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/GeneratingIdeas.html)
    - [Content](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Content.html)
       - [Generation](https://kinrap.github.io/GenerativeAIForTechWriters/Docs/Generation.html)
