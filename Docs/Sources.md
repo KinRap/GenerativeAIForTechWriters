@@ -113,18 +113,17 @@ nav_order: 8
 102.	<a href="https://lsa.umich.edu/sweetland/instructors/guides-to-teaching-writing/genai-in-the-writing-process.html" target="_blank">Using Generative AI or Chatbots in the Writing Process</a> 
 103.	<a href="https://www.quora.com/What-are-the-limitations-or-challenges-of-using-AI-in-content-writing" target="_blank">What are the limitations or challenges of using AI in content writing?</a>
 104.	<a href="https://www.linkedin.com/advice/0/what-risks-limitations-your-machine-learning-solution" target="_blank">What are the risks and limitations of your Machine Learning solution?</a>
-105.	<a href="ttps://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-ai" target="_blank">What is AI (artificial intelligence)?</a>h
-106.	<a href="https://www.oracle.com/sa/artificial-intelligence/ai-model-training/" target="_blank">What Is AI Model Training & Why Is It Important?</a>
-107.	<a href="https://servicecenter.fsu.edu/s/article/What-is-AI-prompting" target="_blank">What is AI prompting?</a>
-108.	<a href="https://www.pcmag.com/explainers/what-is-microsoft-copilot" target="_blank">What Is Copilot? Microsoft's AI Assistant Explained</a>
-109.	<a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai" target="_blank">What is generative AI? McKinsey&Company</a>
-110.	<a href="https://www.nvidia.com/en-us/glossary/generative-ai/" target="_blank">What is Generative AI? Nvidia </a>
-111.	<a href="https://zapier.com/blog/google-gemini/?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_nb_desktop_blog_prospecting_developing1_developing2-ads&utm_term=&utm_content=1011539&utm_ads_campaign_id=19622168382&utm_ads_adset_id=157760468828&utm_ads_ad_id=659058345731&gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3woeKa_7qD2P7Q2yZz_UZ-BDBLn_1xKCZjJyebGwo8C-Jbnc16rO5tEaAoggEALw_wcB" target="_blank">What is Google Gemini?</a>
-112.	<a href="https://aws.amazon.com/what-is/prompt-engineering/" target="_blank">What is prompt engineering?</a>
-113.	<a href="https://www.zdnet.com/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/" target="_blank">Who owns the code? If ChatGPT's AI helps write your app, does it still belong to you?</a>
-114.	<a href="https://ai.google.dev/gemini-api/docs/prompting-intro?hl=pl" target="_blank">Wprowadzenie do projektowania promptów</a>
-115.	<a href="https://www.scripted.com/writesonic-review-features-pricing-benefits" target="_blank">Writesonic Review: Features, Pricing, Benefits, and More</a> 
-116.	<a href="https://clickup.com/blog/writesonic-vs-chatgpt/" target="_blank">Writesonic vs. ChatGPT: Which AI Writing Tool Is Best?</a>
-117.	<a href="https://writesonic.com/" target="_blank">Writesonic</a>
-118.	<a href="https://nano.komputronik.pl/n/wyszukiwarka-google-ai-overviews-gemini/" target="_blank">Wyszukiwarka Google przejdzie rewolucję. Co to jest AI Overviews?</a>
-119.	Rewired: The McKinsey Guide to Outcompeting in the Age of Digital and AI, E.Lamarre, K. Smaje, R. Zemmel, Wiley 2023
+105.	<a href="https://www.oracle.com/sa/artificial-intelligence/ai-model-training/" target="_blank">What Is AI Model Training & Why Is It Important?</a>
+106.	<a href="https://servicecenter.fsu.edu/s/article/What-is-AI-prompting" target="_blank">What is AI prompting?</a>
+107.	<a href="https://www.pcmag.com/explainers/what-is-microsoft-copilot" target="_blank">What Is Copilot? Microsoft's AI Assistant Explained</a>
+108.	<a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai" target="_blank">What is generative ChatGPT, DALL-E, and Generative AI?</a>
+109.	<a href="https://www.nvidia.com/en-us/glossary/generative-ai/" target="_blank">Generative AI – What I it and How Does it Work? </a>
+110.	<a href="https://zapier.com/blog/google-gemini/?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_nb_desktop_blog_prospecting_developing1_developing2-ads&utm_term=&utm_content=1011539&utm_ads_campaign_id=19622168382&utm_ads_adset_id=157760468828&utm_ads_ad_id=659058345731&gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3woeKa_7qD2P7Q2yZz_UZ-BDBLn_1xKCZjJyebGwo8C-Jbnc16rO5tEaAoggEALw_wcB" target="_blank">What is Google Gemini?</a>
+111.	<a href="https://aws.amazon.com/what-is/prompt-engineering/" target="_blank">What is prompt engineering?</a>
+112.	<a href="https://www.zdnet.com/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/" target="_blank">Who owns the code? If ChatGPT's AI helps write your app, does it still belong to you?</a>
+113.	<a href="https://ai.google.dev/gemini-api/docs/prompting-intro?hl=pl" target="_blank">Wprowadzenie do projektowania promptów</a>
+114.	<a href="https://www.scripted.com/writesonic-review-features-pricing-benefits" target="_blank">Writesonic Review: Features, Pricing, Benefits, and More</a> 
+115.	<a href="https://clickup.com/blog/writesonic-vs-chatgpt/" target="_blank">Writesonic vs. ChatGPT: Which AI Writing Tool Is Best?</a>
+116.	<a href="https://writesonic.com/" target="_blank">Writesonic</a>
+117.	<a href="https://nano.komputronik.pl/n/wyszukiwarka-google-ai-overviews-gemini/" target="_blank">Wyszukiwarka Google przejdzie rewolucję. Co to jest AI Overviews?</a>
+118.	Rewired: The McKinsey Guide to Outcompeting in the Age of Digital and AI, E.Lamarre, K. Smaje, R. Zemmel, Wiley 2023
