@@ -33,7 +33,7 @@ Google Gemini is a family of AI models. They can understand and generate text li
 -	Variety of ad formats & game creation.
 
 
-### Plan ###
+### Plans ###
 
 We can use Google Gemini for free. But there are paid Google products that offer access to Gemini's functionalities, like <a href="https://workspace.google.com/pricing" target="_blank">Google Workspace</a> or <a href="https://cloud.google.com/products/gemini/code-assist?hl=pl" target="_blank">Gemini Code Assist</a>:
 

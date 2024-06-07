@@ -36,23 +36,6 @@ Writesonic AI is a powerful tool for anyone involved in content creation, provid
 -	Self-guided, self-learning AI agents trained on your own data.
 -	Real-time SEO insights to optimize content, improve search rankings, and boost website traffic.
 
-### Plan ###
+### Plans ###
 
-Writesonic offers a variety of <a href="https://writesonic.com/pricing" target="_blank">pricing plans</a> tailored to different user requirements:
-
-![Writesonic AI Pricing](../Images/WritingAIPlan.png)
-
-1.	**Free Plan**: 
--	Costs $0 per month and offers limited features like Chatsonic, Botsonic, and 100+ AI templates (limited).
-2.	**Chatsonic**:
--	Available at $16 per month (billed annually) or $20 per month (billed monthly) with unlimited access to the chatbot. 
-3.	**Individual**: 
--	Available at $12 per month (billed annually) or $30 per month (billed monthly). It is dedicated to freelancers and content writers. This plan gives access to a bunch of AI templates for generating blog posts, articles, product descriptions, and additional perks such as: Audiosonic, Plagiarism Checker, API access for seamless integration into your workflow.
-4.	**Standard**: 
--	Available at $79 per month (billed annually) or $99 per month (billed monthly). Dedicated to solo marketers and small teams focusing on foundational content and SEO practices. This plan gives access elite quality on AI Article Writer 6.0 which can be integrated with your own data into the AI Article Writer 6.0 for personalized results, and AI Content Gap Analyzer. 
-5.	**Professional Plan**: 
--	Priced at $199 per month when billed annually (or $249 when billed monthly). It is dedicated to SEOs. This plan gives access elite quality on AI Article Writer 6.0 which can be integrated with your own data into the AI Article Writer 6.0 for personalized results. You can add 3 members of your team here.  
-6.	**Advanced Plan**:
--	Priced at $399 per month when billed annually (or $499 when billed monthly). Dedicated to agencies and in-house marketing teams. Provides a Generative AI platform and offers advanced privacy and security features.
-7.	**Enterprise**:
--	Starts at $9,999 per year. Provides a Generative AI platform and advanced privacy and security features. 
+Writesonic offers a variety of <a href="https://writesonic.com/pricing" target="_blank">pricing plans</a> tailored to different user requirements.

@@ -42,7 +42,7 @@ Regarding personal use, work assignments, and other requirements, the convention
 
 
 
-### Plans 
+### Plans ### 
 
 ChatGPT offers a variety of plans to suit different user requirements, which can be reviewed on <a href="https://openai.com/chatgpt/pricing/" target="_blank">the ChatGPT Pricing page</a>.
 

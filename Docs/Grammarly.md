@@ -34,7 +34,7 @@ Grammarly was founded in 2009 by Alex Shevchenko, Max Lytvyn, and Dmytro Lider. 
 -	Analytics for tracking writing progress and identifying areas for improvement.
 -	User-friendly interface for intuitive navigation and ease of use.
 
-### Plans: ###
+### Plans ###
 
 Grammarly offers a variety of <a href="https://www.grammarly.com/plans" target="_blank">plans</a> to suit different user requirements: 
 
