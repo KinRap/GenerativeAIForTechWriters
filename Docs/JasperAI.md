@@ -34,5 +34,5 @@ Jasper AI has evolved into a universal writing aid that leverages AI for text cr
 
 ### Plan ###
 
-Jasper AI offers a variety of plans to suit different user requirements. You can find them on<a href="https://www.jasper.ai/pricing?_from=ads&fp_sid=1-g-Cj0KCQjwmMayBhDuARIsAM9HM8df9CW7GRL1u5Ajf7aRgSrRRpsRWpz5aLZ77rRmc9Llv3R4EYieuggaApfaEALw_wcB&gad_source=1" target="_blank">the Plans & Pricing page</a>.
+Jasper AI offers a variety of plans to suit different user requirements. You can find them on <a href="https://www.jasper.ai/pricing?_from=ads&fp_sid=1-g-Cj0KCQjwmMayBhDuARIsAM9HM8df9CW7GRL1u5Ajf7aRgSrRRpsRWpz5aLZ77rRmc9Llv3R4EYieuggaApfaEALw_wcB&gad_source=1" target="_blank">the Plans & Pricing page</a>.
 
