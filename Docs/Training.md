@@ -1,8 +1,4 @@
----
-title: Training
-layout: default
-parent: Capabilities
-nav_order: 2
+
 ---
 <img src="../Images/3.png" alt="HHeader Capabilities" width="100%">
 
