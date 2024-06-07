@@ -34,13 +34,5 @@ Jasper AI has evolved into a universal writing aid that leverages AI for text cr
 
 ### Plan ###
 
-Jasper AI offers a variety of <a href="https://www.jasper.ai/pricing?_from=ads&fp_sid=1-g-Cj0KCQjwmMayBhDuARIsAM9HM8df9CW7GRL1u5Ajf7aRgSrRRpsRWpz5aLZ77rRmc9Llv3R4EYieuggaApfaEALw_wcB&gad_source=1" target="_blank">plans</a> to suit different user requirements:
+Jasper AI offers a variety of plans to suit different user requirements. You can find them on<a href="https://www.jasper.ai/pricing?_from=ads&fp_sid=1-g-Cj0KCQjwmMayBhDuARIsAM9HM8df9CW7GRL1u5Ajf7aRgSrRRpsRWpz5aLZ77rRmc9Llv3R4EYieuggaApfaEALw_wcB&gad_source=1" target="_blank">the Plans & Pricing page</a>.
 
-![JasperAI Plan](../Images/JasperAIPlan.png)
-
-1.	**Creator Plan**:
--	Available at $39/month/seat (-20% annually).  Essential AI features, SEO mode, and browser extension for content improvement.
-2.	**Pro Plan**:
--	Available at $59/month/seat (-20% annually). Includes all features in Creator, plus collaboration tools and advanced insights.
-3.	**Business Plan**: 
-- Provides personalized AI features for enhanced control, security, and team training, unlimited feature usage, team collaboration, and advanced analytics, Custom Style Guides, enterprise-grade security, and dedicated support.
