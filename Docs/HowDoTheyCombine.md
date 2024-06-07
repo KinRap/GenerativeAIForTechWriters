@@ -18,9 +18,6 @@ Technology is a tool intended to serve people and improve their operations, so G
 <div style="text-align: center"><img src="../Images/Wisely.png" alt="Use Genrative AI wisely" width="60%"></div>
 
 
-Technical writers are valued not only for their specialized knowledge, but also for creating content that is accessible to the audience. GenAI can support them in many areas, such as creating creative content. However, only a specialist can oversee the accuracy of the results provided by GenAI. 
+Technical writers are valued not only for their specialized knowledge, but also for creating content that is accessible to the audience. GenAI can support their creativity -  however, only a specialist can oversee the accuracy of the results provided by GenAI. 
 
-Technical writers who are comfortable with GenAI's Large Language Models will become professionals with AI expertise. This is expected to enhance respect for the technical writers' role in product creation, as they will master both the technologies a well as the art of effective communication.
-
-The job of technical writers is to create accurate and complete documentation, and tools based on generative artificial intelligence can provide significant support. However, this requires acquiring the skills to use them consciously and responsibly. To achieve that, one must understand both the capabilities and limitations these tools entail. These aspects will be presented and discussed in the following chapters.
-
+Technical writers who are comfortable with GenAI's Large Language Models will become professionals with AI expertise. This is expected to enhance respect for the technical writers' role in product creation, as they will master both the technologies and the art of effective communication. To achieve that, writers must understand both the capabilities and limitations that GenAI tools entail. These aspects will be presented and discussed in the following chapters.
