@@ -8,7 +8,6 @@ nav_order: 8
 # **Sources** #
 ***
 
-
 1.	<a href="https://getgenie.ai/challenges-and-limitations-of-ai-content-writing-tools/#" target="_blank">10 Challenges and Limitations of Ai Content Writing Tools</a>
 2.	<a href="https://www.forbes.com/sites/theyec/2023/05/30/14-benefits-and-drawbacks-of-using-ai-tools-to-write-business-content/?sh=2ff79c147177" target="_blank">14 Benefits And Drawbacks Of Using AI Tools To Write Business Content</a> 
 3.	<a href="https://medium.com/@tinrovic/new-chatgpt-4o-features-that-you-didnt-know-about-2b0323fe7d95" target="_blank">30 New ChatGPT-4o Features That You Didn’t Know About</a>
