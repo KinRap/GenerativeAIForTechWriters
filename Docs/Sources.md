@@ -6,7 +6,7 @@ nav_order: 8
 <img src="../Images/9.png" alt="Header Sources" width="100%">
 
 # **Sources** #
-	***
+***
 
 
 1.	<a href="https://getgenie.ai/challenges-and-limitations-of-ai-content-writing-tools/#" target="_blank">10 Challenges and Limitations of Ai Content Writing Tools</a>
