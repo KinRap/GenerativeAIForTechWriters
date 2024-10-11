@@ -10,7 +10,8 @@ nav_order: 3
 ***
 
 AI can sometimes produce incorrect or contradicting information, a phenomenon referred to as data hallucination. 
-<!-- Tu potrzebne objaśnienie, że AI generuje tekst, nie rozumiejąc jego znaczenia, dlatego nawet z dobrych treści może wygenerować błędne -->
+
+GenAI creates text by recognizing patterns from large amounts of data. However, it doesn’t really "understand" the meaning of what it's writing like humans do. It mainly predicts the next word or phrase based on what it has been given. Because of this, AI can write responses that make sense and seem smart, but it might still give incorrect or misleading information, even if it starts with good material. Since AI doesn’t truly understand the text, it can’t always guarantee that the information it provides is accurate or relevant.
 
 Another problematic issue is the lack of high-quality information. Because AI is dealing with sophisticated technical texts containing facts and assumptions, it becomes difficult to differentiate between the two. GenAI can produce textual content that might be quite interesting to readers, but is not entirely true. Moreover, given that technology continues to develop at a fast pace, AI may use information from several years ago and, therefore, generate irrelevant output.
 
